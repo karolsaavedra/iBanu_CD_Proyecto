@@ -25,6 +25,7 @@ Trabajo final de Ciencia de Datos, segundo corte, tema A.
 12. [Limitaciones y trabajo futuro](#12-limitaciones-y-trabajo-futuro)
 13. [Estructura del repositorio](#13-estructura-del-repositorio)
 14. [Documentación adicional y referencias](#14-documentación-adicional-y-referencias)
+15. [Aplicación en funcionamiento con Expo Go](#15-aplicación-en-funcionamiento-con-expo-go)
 
 Documentos relacionados: [manual de usuario](docs/manual_usuario.md), [arquitectura detallada](docs/arquitectura.md), [flujo de n8n](n8n/LEEME.md).
 
@@ -715,5 +716,24 @@ Los documentos académicos originales, los archivos procesados, las credenciales
 - [Evaluación del RAG (json)](docs/evidencias/rag_evaluacion_2026-11-19.json) y [prueba final de extremo a extremo](docs/evidencias/prueba_final_e2e_2026-11-19.md)
 - Documentación de n8n: nodos de AI Agent, Guardrails, MCP Client Tool y Supabase Vector Store (https://docs.n8n.io).
 - pgvector: https://github.com/pgvector/pgvector
+
+---
+## 15. Aplicación en funcionamiento con Expo Go
+
+Portal de entrada
+
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-14 at 8 59 03 PM" src="https://github.com/user-attachments/assets/38209275-880c-46b6-aca4-e725285172ff" />
+
+Portal al iniciar sesión con el ID
+
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-14 at 8 59 03 PM (1)" src="https://github.com/user-attachments/assets/2ea283c8-c7d2-49bf-9e47-ebb7446eb341" />
+
+Portal el hacer una pregunta
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-14 at 8 59 03 PM (2)" src="https://github.com/user-attachments/assets/8c93a01e-48c3-4cde-96a2-f0baa4e02116" />
+
+Portal al hacer otra pregunta
+
+<img width="739" height="1600" alt="WhatsApp Image 2026-11-14 at 8 59 04 PM" src="https://github.com/user-attachments/assets/01cd1ae8-2e58-4b96-bae1-463d9e25b602" />
+
 
 **iBanú | Orientación académica inteligente.** Proyecto académico de Ingeniería de Sistemas.

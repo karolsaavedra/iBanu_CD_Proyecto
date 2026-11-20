@@ -322,11 +322,9 @@ Reproducción: `IBANU_TOKEN=... python pruebas/evaluar_rag.py` y, para el estado
 
 Flujo **"iBanú: orientador académico (flujo único)"**, publicado en n8n Cloud. Archivo importable: [`n8n/ibanu_flujo_unico.json`](n8n/ibanu_flujo_unico.json) (51 nodos: 45 funcionales y 6 notas adhesivas). Guía de importación y detalle: [`n8n/LEEME.md`](n8n/LEEME.md).
 
-![Lienzo del flujo](docs/img/n8n_lienzo_flujo_unico.jpg)
-
+<img width="550" height="730" alt="Captura de pantalla 2026-11-20 003731" src="https://github.com/user-attachments/assets/a0866545-d42e-4696-aeb6-3391dae3aa54" />
 <img width="1417" height="722" alt="Captura de pantalla 2026-11-20 003359" src="https://github.com/user-attachments/assets/35e707d3-8482-4ffc-8b78-698a74655e7b" />
 <img width="883" height="287" alt="Captura de pantalla 2026-11-20 003434" src="https://github.com/user-attachments/assets/eae57aac-c9de-448a-89d1-f1d058a1993a" />
-<img width="1353" height="637" alt="Captura de pantalla 2026-11-20 003511" src="https://github.com/user-attachments/assets/82dd3ac9-f73e-4a77-96fa-9667f2f95abd" />
 <img width="1342" height="748" alt="Captura de pantalla 2026-11-20 003536" src="https://github.com/user-attachments/assets/5f188557-6d8a-4b88-a812-494acddc1195" />
 
 
@@ -374,7 +372,8 @@ La memoria es un buffer de ventana de 10 mensajes por la clave `código + sesió
 
 ### Evidencia de ejecución exitosa
 
-![Ejecuciones en n8n](docs/img/n8n_ejecuciones.jpg)
+<img width="1482" height="907" alt="Captura de pantalla 2026-11-20 003759" src="https://github.com/user-attachments/assets/1ebac24e-8974-4bfe-807c-7b6cf11a4f7d" />
+
 
 *Lista de ejecuciones del flujo en n8n Cloud (todas "Succeeded"; las visibles corresponden al lote de indexación, con la pausa de Gemini entre lotes).* Las ejecuciones del chat con su respuesta completa están en la sección 10 y en [`pruebas/evidencias_webhook_2026-11-19.md`](pruebas/evidencias_webhook_2026-11-19.md).
 

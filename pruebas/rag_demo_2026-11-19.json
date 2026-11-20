@@ -1,0 +1,242 @@
+[
+ {
+  "q": "¿Puedo cancelar una materia y hasta cuándo?",
+  "seg": 1.2,
+  "res": [
+   {
+    "sim": 0.645,
+    "tipo": "reglamento",
+    "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+    "articulo": "8",
+    "pagina": "9",
+    "ini": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 8: ARTÍCULO 8. Quien no realice su matrícula"
+   },
+   {
+    "sim": 0.631,
+    "tipo": "programa",
+    "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+    "articulo": "",
+    "pagina": "",
+    "ini": "La información puede cambiar. Los valores económicos tienen vigencia 2026.  La página consultada corresponde a la modalidad presencial. No u"
+   },
+   {
+    "sim": 0.627,
+    "tipo": "reglamento",
+    "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+    "articulo": "4",
+    "pagina": "7",
+    "ini": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 4: ARTÍCULO 4. La matrícula requiere dos pas"
+   }
+  ]
+ },
+ {
+  "q": "¿Qué pasa si pierdo una asignatura dos veces?",
+  "seg": 0.9,
+  "res": [
+   {
+    "sim": 0.632,
+    "tipo": "reglamento",
+    "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+    "articulo": "5",
+    "pagina": "8",
+    "ini": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 5: ARTÍCULO 5. De la matrícula simultánea en"
+   },
+   {
+    "sim": 0.595,
+    "tipo": "guia_catedra",
+    "titulo": "FISI19013",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Exámenes Escritos (2) (primer corte) 30 Quices y Talleres (prime"
+   },
+   {
+    "sim": 0.595,
+    "tipo": "guia_catedra",
+    "titulo": "SIST18015",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Entrega 1 del Plan de trabajo de la práctica (entregado por el p"
+   }
+  ]
+ },
+ {
+  "q": "¿Cuál es la nota mínima para aprobar una asignatura?",
+  "seg": 0.8,
+  "res": [
+   {
+    "sim": 0.645,
+    "tipo": "guia_catedra",
+    "titulo": "SIST18015",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Entrega 1 del Plan de trabajo de la práctica (entregado por el p"
+   },
+   {
+    "sim": 0.638,
+    "tipo": "reglamento",
+    "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+    "articulo": "5",
+    "pagina": "8",
+    "ini": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 5: ARTÍCULO 5. De la matrícula simultánea en"
+   },
+   {
+    "sim": 0.638,
+    "tipo": "guia_catedra",
+    "titulo": "ESTA19029",
+    "articulo": "",
+    "pagina": "",
+    "ini": "3.1 Variables aleatorias3.2 Definición de distribución de  probabilidad3.3 Distribuciones discretas de probabilidad3.4 Valor UNIDAD No. 3: D"
+   }
+  ]
+ },
+ {
+  "q": "¿Qué contenidos se ven en Estructura de Datos?",
+  "seg": 0.9,
+  "res": [
+   {
+    "sim": 0.787,
+    "tipo": "guia_catedra",
+    "titulo": "COMP18037",
+    "articulo": "",
+    "pagina": "",
+    "ini": "5. Contenidos  Id Unidad de aprendizaje Temáticas   Repaso programación estructurada Arreglos y matrices  1 Repaso Programación Programación"
+   },
+   {
+    "sim": 0.75,
+    "tipo": "guia_catedra",
+    "titulo": "COMP18037",
+    "articulo": "",
+    "pagina": "",
+    "ini": "3. Justificación La construcción de software de calidad requiere estrategias y técnicas de diseño que apunten a la implementación eficiente "
+   },
+   {
+    "sim": 0.749,
+    "tipo": "guia_catedra",
+    "titulo": "COMP18037",
+    "articulo": "",
+    "pagina": "",
+    "ini": "4. Competencias de formación  Id Competencia Resultado de aprendizaje esperado  1 - Clasifica las estructuras de datos disponibles en los le"
+   }
+  ]
+ },
+ {
+  "q": "¿Qué prerrequisito tiene Internet de las Cosas?",
+  "seg": 1.1,
+  "res": [
+   {
+    "sim": 0.746,
+    "tipo": "guia_catedra",
+    "titulo": "TELE18052",
+    "articulo": "",
+    "pagina": "",
+    "ini": "Introducción al Internet de las Cosas.Términos y definiciones para  Internet de las Cosas.Características fundamentales y requisitos de  alt"
+   },
+   {
+    "sim": 0.738,
+    "tipo": "guia_catedra",
+    "titulo": "GSIN18017",
+    "articulo": "",
+    "pagina": "",
+    "ini": "2. Conocimientos previos requeridos para el curso Internet de las Cosas  3. Justificación Este curso cubre temáticas avanzadas relacionadas "
+   },
+   {
+    "sim": 0.697,
+    "tipo": "guia_catedra",
+    "titulo": "TELE18052",
+    "articulo": "",
+    "pagina": "",
+    "ini": "3. Justificación Unidad temática que presenta fundamentación teórica/práctica sobre el diseño de soluciones tecnológicas de Internet de las "
+   }
+  ]
+ },
+ {
+  "q": "¿Qué es el promedio ponderado acumulado y cómo afecta mi permanencia?",
+  "seg": 0.8,
+  "res": [
+   {
+    "sim": 0.622,
+    "tipo": "reglamento",
+    "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+    "articulo": "5",
+    "pagina": "8",
+    "ini": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 5: ARTÍCULO 5. De la matrícula simultánea en"
+   },
+   {
+    "sim": 0.612,
+    "tipo": "guia_catedra",
+    "titulo": "MATE19031",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Actividad: Reconocimiento de relaciones y funciones en los difer"
+   },
+   {
+    "sim": 0.605,
+    "tipo": "guia_catedra",
+    "titulo": "SIST18015",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Entrega 1 del Plan de trabajo de la práctica (entregado por el p"
+   }
+  ]
+ },
+ {
+  "q": "¿Qué competencias digitales debe desarrollar un estudiante de ingeniería?",
+  "seg": 1.0,
+  "res": [
+   {
+    "sim": 0.761,
+    "tipo": "guia_catedra",
+    "titulo": "INGE18017",
+    "articulo": "",
+    "pagina": "",
+    "ini": "4. Competencias de formación  Id Competencia Resultado de aprendizaje esperado  1 - Interpreta el impacto histórico, desarrollo y estado act"
+   },
+   {
+    "sim": 0.735,
+    "tipo": "guia_catedra",
+    "titulo": "INGE18017",
+    "articulo": "",
+    "pagina": "",
+    "ini": "Id Competencia Resultado de aprendizaje esperado   1 - Expresa sus ideas de manera clara, lógica y argumentadas acorde  con la situación en "
+   },
+   {
+    "sim": 0.722,
+    "tipo": "programa",
+    "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+    "articulo": "",
+    "pagina": "",
+    "ini": "3. Comunicarse efectivamente con una variedad de audiencias.  4. Reconocer responsabilidades éticas y profesionales en  situaciones de ingen"
+   }
+  ]
+ },
+ {
+  "q": "¿Cómo se evalúa Cálculo Diferencial?",
+  "seg": 0.8,
+  "res": [
+   {
+    "sim": 0.76,
+    "tipo": "guia_catedra",
+    "titulo": "MATE19031",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Actividad: Reconocimiento de relaciones y funciones en los difer"
+   },
+   {
+    "sim": 0.758,
+    "tipo": "guia_catedra",
+    "titulo": "MATE19029",
+    "articulo": "",
+    "pagina": "",
+    "ini": "¿Interpretación geométrica de la derivada¿Velocidad promedio y  Velocidad instantánea¿Concepto de derivada¿Reglas para  encontrar la derivad"
+   },
+   {
+    "sim": 0.752,
+    "tipo": "guia_catedra",
+    "titulo": "MATE19032",
+    "articulo": "",
+    "pagina": "",
+    "ini": "6. Evaluación y calificación  Actividades o tipos de actividades Porcentaje Actividad: Solución de ecuaciones diferenciales de primer orden "
+   }
+  ]
+ }
+]

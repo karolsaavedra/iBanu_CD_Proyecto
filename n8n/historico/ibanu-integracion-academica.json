@@ -1,0 +1,376 @@
+{
+  "name": "iBanu",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "ibanu/eventos",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.2,
+      "position": [
+        0,
+        0
+      ],
+      "id": "66572a72-0881-4b60-92a8-3af54d398b54",
+      "name": "Webhook",
+      "webhookId": "8694edd1-6dc4-4711-b9a5-92c9fd6a5ed2"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 4
+          },
+          "conditions": [
+            {
+              "id": "5757ec93-450e-4361-bf03-f664e58700f9",
+              "leftValue": "={{ $json.body.estado }}",
+              "rightValue": "200",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.4,
+      "position": [
+        224,
+        0
+      ],
+      "id": "27e9691b-136e-4850-86ba-c9ffbf98723a",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "cfe5c361-ea5c-49b8-9f9d-41e0cc6ea4cd",
+              "name": "tipo_evento",
+              "value": "Consulta exitosa",
+              "type": "string"
+            },
+            {
+              "id": "33f0bda0-301e-48fe-bd17-961532e01d44",
+              "name": "servicio",
+              "value": "={{ $json.body.servicio }}",
+              "type": "string"
+            },
+            {
+              "id": "0cad580d-2324-4b36-8d77-9a07fc528b86",
+              "name": "codigo_http",
+              "value": "={{ $json.body.estado }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.5,
+      "position": [
+        448,
+        -96
+      ],
+      "id": "bcf61c72-bdb9-4bcf-aea5-ba8cf54019c4",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "31b9cd35-1e6d-4931-a18b-c247155973f3",
+              "name": "tipo_evento",
+              "value": "Consulta con error",
+              "type": "string"
+            },
+            {
+              "id": "306859dc-12cf-497b-b64e-60e1fc42b246",
+              "name": "servicio",
+              "value": "={{ $json.body.servicio }}",
+              "type": "string"
+            },
+            {
+              "id": "f93853c5-d487-4d42-903f-3c06f4874df3",
+              "name": "codigo_http",
+              "value": "={{ $json.body.estado }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.5,
+      "position": [
+        448,
+        96
+      ],
+      "id": "df5d8824-39b0-419b-aabe-3281f08d1cc2",
+      "name": "Edit Fields1"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "minutes"
+            }
+          ]
+        }
+      },
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        416
+      ],
+      "id": "360420bf-792a-4672-a8db-fe4af3c6e269",
+      "name": "Schedule Trigger"
+    },
+    {
+      "parameters": {
+        "url": "http://172.18.0.1:8000/health",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.5,
+      "position": [
+        224,
+        416
+      ],
+      "id": "f32d3529-ee7c-4709-8f27-db171de3184d",
+      "name": "HTTP Request"
+    },
+    {
+      "parameters": {
+        "url": "http://172.18.0.1:8000/health/database",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.5,
+      "position": [
+        448,
+        416
+      ],
+      "id": "448bd4bf-46bc-4b25-a6de-79b786be1334",
+      "name": "HTTP Request1"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 4
+          },
+          "conditions": [
+            {
+              "id": "425cc32e-23b2-4be8-8fca-91c361027ef8",
+              "leftValue": "={{ $json.estado }}",
+              "rightValue": "conectado",
+              "operator": {
+                "type": "string",
+                "operation": "equals",
+                "name": "filter.operator.equals"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.4,
+      "position": [
+        672,
+        416
+      ],
+      "id": "0bc53ef2-d1f3-41e1-843c-0cec890dca57",
+      "name": "If1"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "3e11ca07-0632-4b5a-94d6-ba1853159376",
+              "name": "tipo_evento",
+              "value": "Base de datos disponible",
+              "type": "string"
+            },
+            {
+              "id": "8077be8c-eafe-40e0-9ef5-f289a774d158",
+              "name": "servicio",
+              "value": "Supabase",
+              "type": "string"
+            },
+            {
+              "id": "a22ec574-309f-499e-b21b-ee79a177012f",
+              "name": "estado",
+              "value": "Conectado",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.5,
+      "position": [
+        896,
+        320
+      ],
+      "id": "4290bfe4-b794-4317-a8c8-85a3ec76897c",
+      "name": "Edit Fields2"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "3494eecd-aff6-4426-ad35-83d7ac3ab39e",
+              "name": "tipo_evento",
+              "value": "Error de base de datos",
+              "type": "string"
+            },
+            {
+              "id": "17ccc7c2-9b85-403e-8d2d-91a43010430f",
+              "name": "servicio",
+              "value": "Supabase",
+              "type": "string"
+            },
+            {
+              "id": "c8498d0a-5916-4024-8185-ef737ad43ea8",
+              "name": "estado",
+              "value": "No disponible",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.5,
+      "position": [
+        896,
+        512
+      ],
+      "id": "04e04119-44f8-452c-8d23-2704ec5ab707",
+      "name": "Edit Fields3"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Edit Fields1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Schedule Trigger": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request1": {
+      "main": [
+        [
+          {
+            "node": "If1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If1": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Edit Fields3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields2": {
+      "main": [
+        []
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "a805ba83-3921-4df5-af47-3a74f9774664",
+  "meta": {
+    "instanceId": "1c1ea90f147bc19e418c286576fa0ed3b6c34acd4abc8c5026ea0ed634f334a9"
+  },
+  "nodeGroups": [],
+  "id": "ULwaBg3oZbeL570r",
+  "tags": []
+}

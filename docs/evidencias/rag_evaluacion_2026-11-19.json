@@ -1,0 +1,3101 @@
+{
+ "fecha": "2026-11-19",
+ "metricas": {
+  "preguntas": 20,
+  "acierto_1": 0.95,
+  "acierto_5": 1.0,
+  "mrr": 0.975
+ },
+ "preguntas": [
+  {
+   "n": 1,
+   "pregunta": "¿Qué pasos tengo que hacer para quedar matriculado en un semestre?",
+   "esperado": {
+    "art": [
+     "4"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Qué pasos tengo que hacer para quedar matriculado en un semestre?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 4: ARTÍCULO 4. La matrícula requiere dos pasos:\n\n 1. Inscribir los cursos en la plataforma académica institucional, de\n acuerdo con su plan de estudios y dentro de las fechas establecidas.\n 2. Legalizar el pago de los créditos inscritos, más los derechos pecuniarios exigidos dentro de las fechas establecidas en el cronograma académico, y antes del inicio de clases.\n\nParágrafo 1. En todos los casos el estudiante deberá acreditar afiliación vigente\nal sistema de seguridad en salud, salvo los estudiantes en programas virtuales.\n\nParágrafo 2. El estudiante que llegue a la mayoría de edad deberá actualizar su\ndocumento de identidad de acuerdo con lo establecido en la ley colombiana.\n\nParágrafo 3. Para la renovación de su matrícula, el estudiante deberá estar a paz\ny salvo financiero por todo concepto con la Institución.\n\nParágrafo 4. Los estudiantes nacionales y extranjeros que se encuentren realizando pasantías o intercambios dentro de la Universidad Autónoma de Bucaramanga se regirán por las normas de este reglamento y por las especiales que,\npara el caso de matrícula, se deriven de los convenios que rijan dichas pasantías.",
+      "similitud": 0.736124832186803,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 17,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 4",
+       "version": "2019",
+       "articulo": "4",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 3: ARTÍCULO 3. El aspirante admitido adquiere la calidad de Estudiante Activo con\nla matrícula, la cual debe renovar en las fechas señaladas en el cronograma\nacadémico y de acuerdo con el plan de estudios vigente.",
+      "similitud": 0.691014131635873,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 3",
+       "version": "2019",
+       "articulo": "3",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 8: ARTÍCULO 8. Quien no realice su matrícula en la fecha señalada, según el cronograma académico, podrá reservar cupo mediante solicitud formal al respectivo\nprograma.\n\nLa asistencia al aula de clases sin la regularización del proceso de matrícula, ya\nsea que ocurra con o sin el asentimiento del profesor, no se tendrá en cuenta\npara el proceso educativo, incluido el de homologaciones y validaciones.\n\nParágrafo 1. El aspirante admitido que solicite reserva de cupo lo mantendrá\nhasta por un (1) año contado a partir de la fecha de registro de la reserva, pasado\nel cual, el estudiante adquiere estatus de inactivo y deberá realizar nuevamente\nproceso de admisión.\n\nParágrafo 2. El estudiante continuo podrá mantener la reserva de cupo hasta por\ndos (2) años contados a partir de su registro.",
+      "similitud": 0.682575625565004,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "9",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 8",
+       "version": "2019",
+       "articulo": "8",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "La ruta se compone de tres pilares, con una oferta modular y progresiva que permite al estudiante tomar los cursos de manera flexible y personalizada: Competencias Digitales Básicas Curso obligatorio: Interacción Digital Analítica y Contenido Digital (el estudiante elige 1 curso) Habilidades en Analítica Digital Productividad y Marca Personal Digital Creación de Contenidos Digitales Tecnologías Transformativas (el estudiante elige 1 curso) IA Generativa Marco Legal Digital Cuidado y Bienestar Digital La ruta se implementará en formato PG o semestralizado, es decir, se deja de lado el modelo de ciclos mensuales y se adopta una planificación estructurada por períodos académicos, coherente con el resto de la programación institucional.\n\nEl primer curso del primer pilar (Interacción Digital) será obligatorio para todos los estudiantes de primer semestre, y se incluirá automáticamente en la prematrícula y el cupón de pago del nuevo estudiante. Los cursos de los pilares dos y tres tendrán carácter electivo dentro de la ruta y podrán ser tomados por el estudiante en cualquier momento de su trayectoria académica. La inscripción de estos cursos se realizará a través de Cosmos, bajo el mismo procedimiento académico que se sigue con asignaturas de carrera o cursos electivos institucionales.",
+      "similitud": 0.677960795870018,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 73,
+         "from": 71
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 5: ARTÍCULO 5. De la matrícula simultánea en más de un programa académico. El estudiante podrá matricularse simultáneamente en más de un programa\nacadémico en la UNAB siempre y cuando cumpla con los siguientes criterios:\n\n 1. Haber cursado y aprobado mínimo el 30% (treinta por ciento) de la\n totalidad de los créditos académicos del primer programa.\n 2. Acreditar un promedio general acumulado igual o superior a 3.50 (tres,\n punto, cinco cero), en el primer programa.\n 3. Ser admitido en el segundo programa al que aspira, teniendo en\n cuenta el proceso de admisión definido para el mismo.",
+      "similitud": 0.669319371777687,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 9,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "8",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 5",
+       "version": "2019",
+       "articulo": "5",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 2,
+   "pregunta": "¿Qué pasa si no realizo mi matrícula en la fecha señalada?",
+   "esperado": {
+    "art": [
+     "8"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Qué pasa si no realizo mi matrícula en la fecha señalada?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 8: ARTÍCULO 8. Quien no realice su matrícula en la fecha señalada, según el cronograma académico, podrá reservar cupo mediante solicitud formal al respectivo\nprograma.\n\nLa asistencia al aula de clases sin la regularización del proceso de matrícula, ya\nsea que ocurra con o sin el asentimiento del profesor, no se tendrá en cuenta\npara el proceso educativo, incluido el de homologaciones y validaciones.\n\nParágrafo 1. El aspirante admitido que solicite reserva de cupo lo mantendrá\nhasta por un (1) año contado a partir de la fecha de registro de la reserva, pasado\nel cual, el estudiante adquiere estatus de inactivo y deberá realizar nuevamente\nproceso de admisión.\n\nParágrafo 2. El estudiante continuo podrá mantener la reserva de cupo hasta por\ndos (2) años contados a partir de su registro.",
+      "similitud": 0.715766889796669,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "9",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 8",
+       "version": "2019",
+       "articulo": "8",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.\n\nParágrafo 4. Solo habrá lugar a la devolución del valor de matrícula por la cancelación parcial o total de cursos, dentro de las fechas establecidas en el cronograma académico y según la política financiera institucional.",
+      "similitud": 0.672581255435948,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 19
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 4: ARTÍCULO 4. La matrícula requiere dos pasos:\n\n 1. Inscribir los cursos en la plataforma académica institucional, de\n acuerdo con su plan de estudios y dentro de las fechas establecidas.\n 2. Legalizar el pago de los créditos inscritos, más los derechos pecuniarios exigidos dentro de las fechas establecidas en el cronograma académico, y antes del inicio de clases.\n\nParágrafo 1. En todos los casos el estudiante deberá acreditar afiliación vigente\nal sistema de seguridad en salud, salvo los estudiantes en programas virtuales.\n\nParágrafo 2. El estudiante que llegue a la mayoría de edad deberá actualizar su\ndocumento de identidad de acuerdo con lo establecido en la ley colombiana.\n\nParágrafo 3. Para la renovación de su matrícula, el estudiante deberá estar a paz\ny salvo financiero por todo concepto con la Institución.\n\nParágrafo 4. Los estudiantes nacionales y extranjeros que se encuentren realizando pasantías o intercambios dentro de la Universidad Autónoma de Bucaramanga se regirán por las normas de este reglamento y por las especiales que,\npara el caso de matrícula, se deriven de los convenios que rijan dichas pasantías.",
+      "similitud": 0.666670739651456,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 17,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 4",
+       "version": "2019",
+       "articulo": "4",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 3: ARTÍCULO 3. El aspirante admitido adquiere la calidad de Estudiante Activo con\nla matrícula, la cual debe renovar en las fechas señaladas en el cronograma\nacadémico y de acuerdo con el plan de estudios vigente.",
+      "similitud": 0.66438647124849,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 3",
+       "version": "2019",
+       "articulo": "3",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 12: ARTÍCULO 12. El derecho a la renovación de matrícula se perderá por una de\nlas siguientes causas:\n\n 1. No ser procedente la solicitud del estudiante para ingresar al Programa de Recuperación Académica debido a la imposibilidad del restablecimiento de su PGA a un rango que permita su continuidad en el\n programa al que pertenece.\n 2. No aprobar satisfactoriamente el Programa de Recuperación Académica.\n 3. Obtener por segunda vez un PGA inferior a tres, punto, cero, cero\n (3.00).\n 4. Ser sancionado disciplinariamente con pérdida inmediata y definitiva\n de la condición de estudiante UNAB.\n\nParágrafo. Los estudiantes que han perdido el derecho a la renovación de matrícula en los casos señalados en los numerales 1, 2 y 3 no podrán solicitar admisión en el mismo programa en el que perdieron dicho derecho; sin embargo,\npodrán optar por realizar un nuevo proceso de admisión en otro de los programas\nofertados por la UNAB, siguiendo el proceso señalado en el presente reglamento, y, de ser admitidos, podrán solicitar reconocimiento de los cursos en los\nque hayan obtenido, según el tipo de calificación, aprobado o nota igual o superior a 4.0 (cuatro, punto, cero), exceptuando aquellos que hagan parte del componente específico del Plan de Estudios.",
+      "similitud": 0.658672332763677,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 15,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "11",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 12",
+       "version": "2019",
+       "articulo": "12",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 3,
+   "pregunta": "¿Puedo cancelar una materia ya matriculada y hasta cuándo?",
+   "esperado": {
+    "art": [
+     "13"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Puedo cancelar una materia ya matriculada y hasta cuándo?",
+    "resultados": [
+     {
+      "contenido": "Parágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.\n\nParágrafo 4. Solo habrá lugar a la devolución del valor de matrícula por la cancelación parcial o total de cursos, dentro de las fechas establecidas en el cronograma académico y según la política financiera institucional.",
+      "similitud": 0.788434124337613,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 19
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 13: ARTÍCULO 13. De la cancelación total o parcial de los cursos matriculados:\nLa cancelación total o parcial de los cursos matriculados será ordinaria o extraordinaria.\n\nLa cancelación ordinaria podrá ser solicitada por el estudiante dentro de las fechas establecidas en el cronograma académico del programa al cual pertenece.\n\nLa cancelación extraordinaria solo es procedente en los casos debidamente\ncomprobados de fuerza mayor o caso fortuito y se podrá solicitar hasta el día\nhábil siguiente a la fecha de finalización de clases establecida en el cronograma\nacadémico aplicable. No será causal de cancelación extraordinaria el bajo rendimiento académico o cuando el número de fallas supere el máximo establecido\nen este reglamento.\n\nParágrafo 1. Para los programas académicos en metodología virtual, cuyo plan\nde estudios sea modular, la cancelación ordinaria de un módulo podrá solicitarse\nhasta una semana antes de la finalización de este.\n\nParágrafo 2. Para el caso de incapacidades médicas solo se considerarán las\nemitidas por la EPS a la cual estuviere afiliado el estudiante.\n\nParágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.",
+      "similitud": 0.75980257388988,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 20,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 60: ARTÍCULO 60. Cancelación de la práctica académica. La práctica académica\npodrá ser cancelada por el estudiante en alguno de los siguientes casos:\n\n 1. Antes de la asignación del escenario de práctica, siempre y cuando el\n estudiante lo solicite dentro de las cuatro (4) semanas siguientes a la\n fecha de inicio de clases definidas en el cronograma académico institucional. En este caso, no aplicarán penalizaciones financieras.\n 2. Por mutuo acuerdo, por escrito, entre: el estudiante en práctica, el escenario de práctica y el Director o Coordinador de Programa al que\n pertenece, previo concepto del profesor líder de práctica de la facultad.\n 3. Razones de fuerza mayor del estudiante en práctica, justificada y\n aprobada por el Director del Programa.\n\nParágrafo 1. Para efectos de los numerales 2 y 3, el tiempo de las cancelaciones\nse sujetará a las fechas definidas en el cronograma académico institucional. De\nlo contrario, estas tendrán consecuencias financieras y académicas en la evaluación del estudiante.\n\nParágrafo 2. El abandono de la práctica académica sin el cumplimiento de los\nprocedimientos definidos para su cancelación será calificado con cero, punto,\ncero (0.0).",
+      "similitud": 0.696009638548759,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 18,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "31",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 60",
+       "version": "2019",
+       "articulo": "60",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 8: ARTÍCULO 8. Quien no realice su matrícula en la fecha señalada, según el cronograma académico, podrá reservar cupo mediante solicitud formal al respectivo\nprograma.\n\nLa asistencia al aula de clases sin la regularización del proceso de matrícula, ya\nsea que ocurra con o sin el asentimiento del profesor, no se tendrá en cuenta\npara el proceso educativo, incluido el de homologaciones y validaciones.\n\nParágrafo 1. El aspirante admitido que solicite reserva de cupo lo mantendrá\nhasta por un (1) año contado a partir de la fecha de registro de la reserva, pasado\nel cual, el estudiante adquiere estatus de inactivo y deberá realizar nuevamente\nproceso de admisión.\n\nParágrafo 2. El estudiante continuo podrá mantener la reserva de cupo hasta por\ndos (2) años contados a partir de su registro.",
+      "similitud": 0.69043799312228,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "9",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 8",
+       "version": "2019",
+       "articulo": "8",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 4: ARTÍCULO 4. La matrícula requiere dos pasos:\n\n 1. Inscribir los cursos en la plataforma académica institucional, de\n acuerdo con su plan de estudios y dentro de las fechas establecidas.\n 2. Legalizar el pago de los créditos inscritos, más los derechos pecuniarios exigidos dentro de las fechas establecidas en el cronograma académico, y antes del inicio de clases.\n\nParágrafo 1. En todos los casos el estudiante deberá acreditar afiliación vigente\nal sistema de seguridad en salud, salvo los estudiantes en programas virtuales.\n\nParágrafo 2. El estudiante que llegue a la mayoría de edad deberá actualizar su\ndocumento de identidad de acuerdo con lo establecido en la ley colombiana.\n\nParágrafo 3. Para la renovación de su matrícula, el estudiante deberá estar a paz\ny salvo financiero por todo concepto con la Institución.\n\nParágrafo 4. Los estudiantes nacionales y extranjeros que se encuentren realizando pasantías o intercambios dentro de la Universidad Autónoma de Bucaramanga se regirán por las normas de este reglamento y por las especiales que,\npara el caso de matrícula, se deriven de los convenios que rijan dichas pasantías.",
+      "similitud": 0.670576672341926,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 17,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 4",
+       "version": "2019",
+       "articulo": "4",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 4,
+   "pregunta": "Dejé de estudiar un semestre, ¿cómo me reintegro a la universidad?",
+   "esperado": {
+    "art": [
+     "9"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "Dejé de estudiar un semestre, ¿cómo me reintegro a la universidad?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 9: ARTÍCULO 9. Del reintegro de estudiantes. El estudiante que ha realizado reserva de cupo o ha abandonado sus estudios de manera temporal sin haberlo\nformalizado, podrá solicitar reintegro ante la Dirección o Coordinación del Programa. El Comité Curricular recomendará las condiciones para el reintegro, con\nsujeción a la última actualización del plan de estudios del programa y demás\ncriterios curriculares de la Institución, pudiendo el Comité Curricular, mediante\nconcepto debidamente motivado, recomendar al Director o Coordinador del Programa procesos de actualización de conocimientos mediante cursos dirigidos y\nevaluados por el programa.",
+      "similitud": 0.739805667377194,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "10",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 9",
+       "version": "2019",
+       "articulo": "9",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SÉPTIMO. De los grados, Artículo 68: ARTÍCULO 68. Un estudiante podrá solicitar su graduación si cumple con todos\nlos requisitos exigidos para ello hasta tres (3) años después de finalizadas las\nactividades académicas exigidas para su titulación. Posterior a este tiempo, requiere solicitar reintegro para su actualización académica ante el respectivo programa y cumplir con los requisitos establecidos por el Consejo de Facultad.",
+      "similitud": 0.675448894500737,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "34",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SÉPTIMO. De los grados | ARTÍCULO 68",
+       "version": "2019",
+       "articulo": "68",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SÉPTIMO. De los grados",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO TERCERO: De la condición y el estado académico, Artículo 23: ARTÍCULO 23. Una persona podrá encontrarse en las siguientes condiciones\nacadémicas dentro de la UNAB:\n\n a) Activo. Estudiante que cuenta con uno o más cursos matriculados\n durante un periodo académico.\n b) En reserva de cupo. Ha formalizado oportunamente la suspensión\n temporal de sus estudios.\n c) En reintegro. Tras haber suspendido sus estudios temporalmente,\n solicita formalmente continuar con los mismos.\n d) Desertor. No ha realizado matrícula en un período académico, ni formalización de reserva de cupo o retiro.\n e) En sanción disciplinaria. Se encuentra cumpliendo la suspensión de\n estudios por sanción disciplinaria.\n f) Inactivo. En los casos en que se presente una de las siguientes circunstancias: (i) Solicitud de transferencia interna, (ii) cuando habiendo\n sido admitido no se matricula ni solicita reserva de cupo dentro del\n siguiente año, (iii) cuando pierde su derecho de renovar matrícula por\n bajo rendimiento académico o sanción disciplinaria.\n g) Egresado. Ha cumplido con todos los requisitos establecidos en el\n currículo sin haber obtenido su título profesional.\n\n h) Graduado. Cuando la Universidad ha expedido el título y suscrito el\n acta de grado correspondiente.\n i) Retirado. Ha formalizado su decisión voluntaria y definitiva de no continuar sus estudios en la Institución.",
+      "similitud": 0.672355711968754,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "17",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO TERCERO: De la condición y el estado académico | ARTÍCULO 23",
+       "version": "2019",
+       "articulo": "23",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De la condición y el estado académico",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 8: ARTÍCULO 8. Quien no realice su matrícula en la fecha señalada, según el cronograma académico, podrá reservar cupo mediante solicitud formal al respectivo\nprograma.\n\nLa asistencia al aula de clases sin la regularización del proceso de matrícula, ya\nsea que ocurra con o sin el asentimiento del profesor, no se tendrá en cuenta\npara el proceso educativo, incluido el de homologaciones y validaciones.\n\nParágrafo 1. El aspirante admitido que solicite reserva de cupo lo mantendrá\nhasta por un (1) año contado a partir de la fecha de registro de la reserva, pasado\nel cual, el estudiante adquiere estatus de inactivo y deberá realizar nuevamente\nproceso de admisión.\n\nParágrafo 2. El estudiante continuo podrá mantener la reserva de cupo hasta por\ndos (2) años contados a partir de su registro.",
+      "similitud": 0.655429640735964,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "9",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 8",
+       "version": "2019",
+       "articulo": "8",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.\n\nParágrafo 4. Solo habrá lugar a la devolución del valor de matrícula por la cancelación parcial o total de cursos, dentro de las fechas establecidas en el cronograma académico y según la política financiera institucional.",
+      "similitud": 0.655241250991826,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 19
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 5,
+   "pregunta": "¿Qué significa estar en estado académico condicional?",
+   "esperado": {
+    "art": [
+     "10"
+    ]
+   },
+   "http": 200,
+   "posicion": 2,
+   "respuesta": {
+    "consulta": "¿Qué significa estar en estado académico condicional?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO TERCERO: De la condición y el estado académico, Artículo 24: ARTÍCULO 24. Una persona podrá encontrarse en los siguientes estados académicos:\n\n a) Normal: El estudiante con un PGA superior a tres, punto, dos, cero\n (3.20).\n b) Condicional: El estudiante que en un periodo académico obtiene un\n PGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20).\n c) En prueba académica: El estudiante que en un segundo periodo\n académico consecutivo obtiene un PGA entre tres, punto, cero, cero\n (3.00) y tres, punto, dos, cero (3.20); o el estudiante que obtiene en\n un periodo académico un PGA inferior a tres, punto, cero, cero (3.00).\n d) Fuera del Programa: El estudiante que ha perdido el derecho de renovar su matrícula por bajo rendimiento académico.",
+      "similitud": 0.751147776978948,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 11,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "18",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO TERCERO: De la condición y el estado académico | ARTÍCULO 24",
+       "version": "2019",
+       "articulo": "24",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De la condición y el estado académico",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 10: ARTÍCULO 10. Del estado académico condicional. El estudiante se encontrará en estado académico condicional cuando su Promedio General Acumulado\n(PGA) se encuentre entre tres, punto, dos, cero (3.20) y tres, punto, cero, cero\n(3.00), dentro de la escala de calificación de cero, punto, cero, cero (0.00) a\ncinco, punto, cero, cero (5.00).\n\nLos estudiantes en estado académico condicional deberán acogerse al Programa de Acompañamiento y Apoyo Académico establecido en el presente reglamento.",
+      "similitud": 0.74863691636104,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "10",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 10",
+       "version": "2019",
+       "articulo": "10",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos, Artículo 84: ARTÍCULO 84. Los estudiantes en estado académico condicional deberán inscribirse, en el período académico regular inmediatamente siguiente al de su ocurrencia, en alguna de las actividades que componen las estrategias de acompañamiento y apoyo académico ofrecidas por Bienestar Universitario, y sólo podrán\nmatricular hasta tres (3) cursos de su plan de estudios en el siguiente periodo\nacadémico regular.\n\nParágrafo 1. El estudiante deberá acordar previamente con su Director de Programa o Coordinador de Programa de la Facultad de Estudios Técnicos y Tecnológicos los cursos que matriculará.\n\nParágrafo 2. Si en el subsiguiente periodo el PGA del estudiante se mantiene\nentre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3,20), será considerado estudiante en prueba académica y deberá acogerse al Programa de Recuperación Académica establecido en este reglamento.\n\nParágrafo 3. Cada programa, junto con Bienestar Universitario, realizará el control y seguimiento de estos casos.",
+      "similitud": 0.730726572188553,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 10,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "42",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos | ARTÍCULO 84",
+       "version": "2019",
+       "articulo": "84",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO TERCERO: De la condición y el estado académico, Artículo 23: ARTÍCULO 23. Una persona podrá encontrarse en las siguientes condiciones\nacadémicas dentro de la UNAB:\n\n a) Activo. Estudiante que cuenta con uno o más cursos matriculados\n durante un periodo académico.\n b) En reserva de cupo. Ha formalizado oportunamente la suspensión\n temporal de sus estudios.\n c) En reintegro. Tras haber suspendido sus estudios temporalmente,\n solicita formalmente continuar con los mismos.\n d) Desertor. No ha realizado matrícula en un período académico, ni formalización de reserva de cupo o retiro.\n e) En sanción disciplinaria. Se encuentra cumpliendo la suspensión de\n estudios por sanción disciplinaria.\n f) Inactivo. En los casos en que se presente una de las siguientes circunstancias: (i) Solicitud de transferencia interna, (ii) cuando habiendo\n sido admitido no se matricula ni solicita reserva de cupo dentro del\n siguiente año, (iii) cuando pierde su derecho de renovar matrícula por\n bajo rendimiento académico o sanción disciplinaria.\n g) Egresado. Ha cumplido con todos los requisitos establecidos en el\n currículo sin haber obtenido su título profesional.\n\n h) Graduado. Cuando la Universidad ha expedido el título y suscrito el\n acta de grado correspondiente.\n i) Retirado. Ha formalizado su decisión voluntaria y definitiva de no continuar sus estudios en la Institución.",
+      "similitud": 0.700764617346663,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "17",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO TERCERO: De la condición y el estado académico | ARTÍCULO 23",
+       "version": "2019",
+       "articulo": "23",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De la condición y el estado académico",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 11: ARTÍCULO 11. Del estudiante en prueba académica. El estudiante se encontrará en prueba académica cuando por segunda vez consecutiva obtenga un\nPGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20) o cuando\npor primera vez tenga un promedio general acumulado inferior a tres, punto,\ncero, cero (3.00).\n\nLos estudiantes en prueba académica deberán acogerse al Programa de Recuperación Académica establecido en el presente reglamento.",
+      "similitud": 0.651805996894836,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "11",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 11",
+       "version": "2019",
+       "articulo": "11",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 6,
+   "pregunta": "¿Cuándo quedo en prueba académica?",
+   "esperado": {
+    "art": [
+     "11"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cuándo quedo en prueba académica?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 11: ARTÍCULO 11. Del estudiante en prueba académica. El estudiante se encontrará en prueba académica cuando por segunda vez consecutiva obtenga un\nPGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20) o cuando\npor primera vez tenga un promedio general acumulado inferior a tres, punto,\ncero, cero (3.00).\n\nLos estudiantes en prueba académica deberán acogerse al Programa de Recuperación Académica establecido en el presente reglamento.",
+      "similitud": 0.732120535734908,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "11",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 11",
+       "version": "2019",
+       "articulo": "11",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 2. Los estudiantes en prueba académica por haber obtenido un PGA\ninferior a tres, punto, cero, cero (3.00) solo podrán acogerse al Programa de Recuperación Académica por una única vez durante la permanencia del estudiante\nen el programa académico; de volver a obtener un PGA inferior a tres, punto,\ncero, cero (3.00), perderán definitivamente su derecho de renovación de matrícula en el respectivo programa, de conformidad con lo establecido en el artículo\n12 de este reglamento.\n\nParágrafo 3. Cada programa, junto con Bienestar Universitario, realizará el control y seguimiento de estos casos.",
+      "similitud": 0.701886412332685,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 20,
+         "from": 14
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "43",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos | ARTÍCULO 85",
+       "version": "2019",
+       "articulo": "85",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO TERCERO: De la condición y el estado académico, Artículo 24: ARTÍCULO 24. Una persona podrá encontrarse en los siguientes estados académicos:\n\n a) Normal: El estudiante con un PGA superior a tres, punto, dos, cero\n (3.20).\n b) Condicional: El estudiante que en un periodo académico obtiene un\n PGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20).\n c) En prueba académica: El estudiante que en un segundo periodo\n académico consecutivo obtiene un PGA entre tres, punto, cero, cero\n (3.00) y tres, punto, dos, cero (3.20); o el estudiante que obtiene en\n un periodo académico un PGA inferior a tres, punto, cero, cero (3.00).\n d) Fuera del Programa: El estudiante que ha perdido el derecho de renovar su matrícula por bajo rendimiento académico.",
+      "similitud": 0.679207485796139,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 11,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "18",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO TERCERO: De la condición y el estado académico | ARTÍCULO 24",
+       "version": "2019",
+       "articulo": "24",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De la condición y el estado académico",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos, Artículo 84: ARTÍCULO 84. Los estudiantes en estado académico condicional deberán inscribirse, en el período académico regular inmediatamente siguiente al de su ocurrencia, en alguna de las actividades que componen las estrategias de acompañamiento y apoyo académico ofrecidas por Bienestar Universitario, y sólo podrán\nmatricular hasta tres (3) cursos de su plan de estudios en el siguiente periodo\nacadémico regular.\n\nParágrafo 1. El estudiante deberá acordar previamente con su Director de Programa o Coordinador de Programa de la Facultad de Estudios Técnicos y Tecnológicos los cursos que matriculará.\n\nParágrafo 2. Si en el subsiguiente periodo el PGA del estudiante se mantiene\nentre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3,20), será considerado estudiante en prueba académica y deberá acogerse al Programa de Recuperación Académica establecido en este reglamento.\n\nParágrafo 3. Cada programa, junto con Bienestar Universitario, realizará el control y seguimiento de estos casos.",
+      "similitud": 0.671881675253964,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 10,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "42",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos | ARTÍCULO 84",
+       "version": "2019",
+       "articulo": "84",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: Del Procedimiento Regular, Artículo 129: ARTÍCULO 129. De la práctica de pruebas. El Director de Programa, dentro de\nlos dos (2) días hábiles siguientes al vencimiento del término señalado para rendir descargos, estudiará la procedencia y decreto de las pruebas solicitadas,\nademás decretará las que considere de oficio, atendiendo a los criterios de conducencia, pertinencia, racionalidad y utilidad de las mismas. Las pruebas decretadas serán practicadas dentro del término de los cinco (5) días hábiles siguientes a su decreto, término que será ampliado hasta el doble en caso de concurrencia o multiplicidad de conductas o cuando es plural el sujeto del procedimiento disciplinario. Cuando la Universidad se encuentre en periodo de vacaciones, se entenderá que éstas suspenden los términos a los que se refiere este\nartículo.\n\nParágrafo 1. Contra la decisión que niegue las pruebas solicitadas procederá el\nrecurso de reposición, que deberá interponerse dentro de los tres (3) días siguientes a la notificación electrónica de la decisión de pruebas. La reposición\nserá estudiada y decidida por el Director de Programa en efecto suspensivo dentro de los tres (3) días siguientes a la interposición del recurso.",
+      "similitud": 0.654849867378182,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 8,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "71",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO QUINTO: Del Procedimiento Regular | ARTÍCULO 129",
+       "version": "2019",
+       "articulo": "129",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: Del Procedimiento Regular",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 7,
+   "pregunta": "¿Cómo se calcula el promedio del período (PPA) y el promedio general acumulado (PGA)?",
+   "esperado": {
+    "art": [
+     "40"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cómo se calcula el promedio del período (PPA) y el promedio general acumulado (PGA)?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 40: ARTÍCULO 40. Del cálculo del PPA y PGA. Los Promedios de Período Académico (PPA) y General Acumulado (PGA) se obtienen de multiplicar la calificación\nfinal obtenida en cada módulo o curso, por el número de créditos respectivos. La\nsuma de estos resultados se divide entre el total de créditos cursados.\n\nLos Promedios del Período Académico y el General Acumulado se expresan en\nunidades, décimas y centésimas, sin aproximaciones y eliminando las cifras decimales restantes que resulten de su cómputo.",
+      "similitud": 0.810160875320435,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 40",
+       "version": "2019",
+       "articulo": "40",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 2. El curso dirigido sólo podrá ser autorizado por una única vez al\nestudiante cuyo Promedio General Acumulado (PGA) sea igual o superior a tres,\npunto, cinco cero (3.50) en el momento de la petición.",
+      "similitud": 0.703865927688238,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 20
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "20",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca- | ARTÍCULO 31",
+       "version": "2019",
+       "articulo": "31",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO TERCERO: De la condición y el estado académico, Artículo 24: ARTÍCULO 24. Una persona podrá encontrarse en los siguientes estados académicos:\n\n a) Normal: El estudiante con un PGA superior a tres, punto, dos, cero\n (3.20).\n b) Condicional: El estudiante que en un periodo académico obtiene un\n PGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20).\n c) En prueba académica: El estudiante que en un segundo periodo\n académico consecutivo obtiene un PGA entre tres, punto, cero, cero\n (3.00) y tres, punto, dos, cero (3.20); o el estudiante que obtiene en\n un periodo académico un PGA inferior a tres, punto, cero, cero (3.00).\n d) Fuera del Programa: El estudiante que ha perdido el derecho de renovar su matrícula por bajo rendimiento académico.",
+      "similitud": 0.672043046002756,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 11,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "18",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO TERCERO: De la condición y el estado académico | ARTÍCULO 24",
+       "version": "2019",
+       "articulo": "24",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De la condición y el estado académico",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 10: ARTÍCULO 10. Del estado académico condicional. El estudiante se encontrará en estado académico condicional cuando su Promedio General Acumulado\n(PGA) se encuentre entre tres, punto, dos, cero (3.20) y tres, punto, cero, cero\n(3.00), dentro de la escala de calificación de cero, punto, cero, cero (0.00) a\ncinco, punto, cero, cero (5.00).\n\nLos estudiantes en estado académico condicional deberán acogerse al Programa de Acompañamiento y Apoyo Académico establecido en el presente reglamento.",
+      "similitud": 0.671470840485643,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "10",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 10",
+       "version": "2019",
+       "articulo": "10",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 11: ARTÍCULO 11. Del estudiante en prueba académica. El estudiante se encontrará en prueba académica cuando por segunda vez consecutiva obtenga un\nPGA entre tres, punto, cero, cero (3.00) y tres, punto, dos, cero (3.20) o cuando\npor primera vez tenga un promedio general acumulado inferior a tres, punto,\ncero, cero (3.00).\n\nLos estudiantes en prueba académica deberán acogerse al Programa de Recuperación Académica establecido en el presente reglamento.",
+      "similitud": 0.665351390838623,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "11",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 11",
+       "version": "2019",
+       "articulo": "11",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 8,
+   "pregunta": "¿Con qué nota se aprueba un curso y cómo es la escala de calificación?",
+   "esperado": {
+    "art": [
+     "37",
+     "39"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Con qué nota se aprueba un curso y cómo es la escala de calificación?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 37: ARTÍCULO 37. De la escala de calificación. Las pruebas escritas, orales o\nprácticas de naturaleza cuantitativa se calificarán con notas comprendidas entre\ncero, punto, cero (0.0) y cinco, punto, cero (5.0) y serán asignadas y registradas\nen el sistema académico por los profesores, en unidades y décimas.\n\nLa calificación aprobatoria mínima para todas las pruebas será de tres, punto,\ncero (3.0). La prueba no presentada será calificada con cero, punto, cero (0.0).",
+      "similitud": 0.733766794204733,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 7,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 37",
+       "version": "2019",
+       "articulo": "37",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 39: ARTÍCULO 39. La calificación final de cada módulo o curso se expresará en unidades y décimas sin aproximaciones y eliminando las cifras decimales restantes\nque resulten de su cómputo. Así mismo, podrá ser aprobada (A) o reprobada (R),\nsegún lo definido en el Currículo Institucional y de acuerdo con los criterios a los\nque se refiere el artículo precedente.",
+      "similitud": 0.7284460987513,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 4,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 39",
+       "version": "2019",
+       "articulo": "39",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Cada curso tendrá una duración total de 32 horas, distribuidas en 2 horas semanales durante 16 semanas (semestre académico). El sistema de evaluación será Aprobado / No aprobado, según la calificación final. Se considera aprobado con una nota superior a 3.0. Estos cursos no otorgan créditos académicos y no están incluidos en el plan de estudios del registro calificado, adoptando un tratamiento similar al de los cursos de Lenguas dentro del PEI. Se dictarán bajo la metodología basada en competencias, y con una didáctica activa fundamentada en retos y resolución de problemas interdisciplinarios.",
+      "similitud": 0.716947589284474,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 75,
+         "from": 75
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 40: ARTÍCULO 40. Del cálculo del PPA y PGA. Los Promedios de Período Académico (PPA) y General Acumulado (PGA) se obtienen de multiplicar la calificación\nfinal obtenida en cada módulo o curso, por el número de créditos respectivos. La\nsuma de estos resultados se divide entre el total de créditos cursados.\n\nLos Promedios del Período Académico y el General Acumulado se expresan en\nunidades, décimas y centésimas, sin aproximaciones y eliminando las cifras decimales restantes que resulten de su cómputo.",
+      "similitud": 0.686961568956193,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 40",
+       "version": "2019",
+       "articulo": "40",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 48: ARTÍCULO 48. Cuando se presente habilitación de un curso, la calificación definitiva será la suma que resulte de computar la calificación final, con un valor del\nsesenta por ciento (60%) y la obtenida en la prueba de habilitación con un valor\ndel cuarenta por ciento (40%). El resultado obtenido será registrado en el sistema\npara el cómputo del promedio del periodo y general acumulado.",
+      "similitud": 0.678024449583958,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 4,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "25",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 48",
+       "version": "2019",
+       "articulo": "48",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 9,
+   "pregunta": "Perdí un curso por inasistencia, ¿puedo habilitarlo?",
+   "esperado": {
+    "art": [
+     "46",
+     "47"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "Perdí un curso por inasistencia, ¿puedo habilitarlo?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 47: ARTÍCULO 47. Habilitaciones. Se presentarán una sola vez por módulo o curso,\ncuando en el período académico obtenga una calificación final igual o superior a\ndos, punto, cinco (2.5) y haya sido definido por el programa como habilitable.\n\nParágrafo 1. En un período académico no podrán habilitarse más de dos (2) cursos.\n\nParágrafo 2. Los cursos teórico-prácticos, seminarios, los talleres, prácticas, cursos instrumentales y de Bienestar Universitario no podrán ser habilitados.",
+      "similitud": 0.720607373642048,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 7,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "25",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 47",
+       "version": "2019",
+       "articulo": "47",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 48: ARTÍCULO 48. Cuando se presente habilitación de un curso, la calificación definitiva será la suma que resulte de computar la calificación final, con un valor del\nsesenta por ciento (60%) y la obtenida en la prueba de habilitación con un valor\ndel cuarenta por ciento (40%). El resultado obtenido será registrado en el sistema\npara el cómputo del promedio del periodo y general acumulado.",
+      "similitud": 0.68446544593985,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 4,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "25",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 48",
+       "version": "2019",
+       "articulo": "48",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 13: ARTÍCULO 13. De la cancelación total o parcial de los cursos matriculados:\nLa cancelación total o parcial de los cursos matriculados será ordinaria o extraordinaria.\n\nLa cancelación ordinaria podrá ser solicitada por el estudiante dentro de las fechas establecidas en el cronograma académico del programa al cual pertenece.\n\nLa cancelación extraordinaria solo es procedente en los casos debidamente\ncomprobados de fuerza mayor o caso fortuito y se podrá solicitar hasta el día\nhábil siguiente a la fecha de finalización de clases establecida en el cronograma\nacadémico aplicable. No será causal de cancelación extraordinaria el bajo rendimiento académico o cuando el número de fallas supere el máximo establecido\nen este reglamento.\n\nParágrafo 1. Para los programas académicos en metodología virtual, cuyo plan\nde estudios sea modular, la cancelación ordinaria de un módulo podrá solicitarse\nhasta una semana antes de la finalización de este.\n\nParágrafo 2. Para el caso de incapacidades médicas solo se considerarán las\nemitidas por la EPS a la cual estuviere afiliado el estudiante.\n\nParágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.",
+      "similitud": 0.683960020542164,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 20,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.\n\nParágrafo 4. Solo habrá lugar a la devolución del valor de matrícula por la cancelación parcial o total de cursos, dentro de las fechas establecidas en el cronograma académico y según la política financiera institucional.",
+      "similitud": 0.682087061031987,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 19
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 46: ARTÍCULO 46. Si el estudiante al finalizar el módulo o curso tuviere fallas por\ninasistencia en un porcentaje igual o superior al veinte por ciento (20%) del total\nde las horas exigidas, la calificación del último registro será de cero, punto, cero\n(0.0). No aplica para programas virtuales.\n\nParágrafo. En el caso de programas de Ciencias de la Salud, en la práctica clínica, la inasistencia no podrá superar el diez por ciento (10%).",
+      "similitud": 0.678044970734731,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "25",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 46",
+       "version": "2019",
+       "articulo": "46",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 10,
+   "pregunta": "No estoy de acuerdo con la nota de un parcial, ¿cómo pido que la revisen?",
+   "esperado": {
+    "art": [
+     "52"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "No estoy de acuerdo con la nota de un parcial, ¿cómo pido que la revisen?",
+    "resultados": [
+     {
+      "contenido": "Cuando los profesores incurran en errores de cómputo, de digitación u omisión\nen el registro de notas en el sistema, el estudiante tiene derecho a solicitar por\nescrito al Director o Coordinador de Programa la revisión de la nota registrada\nacompañada de las pruebas que tenga, dentro de los dos (2) días hábiles siguientes a la fecha establecida en el cronograma académico para el registro de\ncalificaciones; inmediatamente se dará traslado de la petición al profesor, quien\ninformará por escrito al Director o Coordinador del Programa, dentro del día (1)\nhábil siguiente a la fecha de recibo de la solicitud, si ratifica o corrige el registro\ninicial.",
+      "similitud": 0.781038496618092,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 15
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "27",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 52",
+       "version": "2019",
+       "articulo": "52",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 52: ARTÍCULO 52. Revisión de calificaciones. Cuando el estudiante tenga motivos\nde disentimiento con la calificación de las pruebas escritas, tiene derecho a solicitar, de manera inmediata, su revisión ante el profesor titular del curso, quien\ndeberá resolver la reclamación del estudiante de manera inmediata y devolver la\nprueba al estudiante.\n\nSi el estudiante no estuviese de acuerdo con el resultado de la revisión, dentro\nde los dos (2) días hábiles siguientes a la fecha de la entrega de la prueba calificada, podrá solicitar por escrito un segundo calificador al Decano o Director de\nDepartamento según sea el caso, quien lo designará dentro de los tres (3) días\nhábiles siguientes a la fecha de recibo de la solicitud.\n\nLa calificación final de la prueba será la asignada por el segundo calificador,\nquien la entregará dentro de los dos (2) días hábiles siguientes a su designación.\nÉsta no podrá ser inferior a la calificación inicial.",
+      "similitud": 0.772339059571096,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 13,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "27",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 52",
+       "version": "2019",
+       "articulo": "52",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "3. Para falta leve:\n a. Amonestación verbal con compromiso firmado por el estudiante y sin anotación en la hoja de vida.\n b. Amonestación privada acompañada de un compromiso firmado por el estudiante con copia a la hoja de vida.\n\nParágrafo 1. Cuando la falta disciplinaria sea plagio o fraude académico, el profesor se abstendrá de calificar la actividad académica y el curso correspondiente\nquedará con nota pendiente, que permanecerá como calificación provisional\nhasta que culmine el proceso disciplinario.\n\nParágrafo 2. Cuando la sanción impuesta sea la revocatoria del título otorgado,\nademás se deberá comunicar a las entidades externas a las cuales se haya informado el grado para los trámites de su competencia.",
+      "similitud": 0.651538589688457,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 32,
+         "from": 23
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "55",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO TERCERO: De las Sanciones | ARTÍCULO 104",
+       "version": "2019",
+       "articulo": "104",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De las Sanciones",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: Del Procedimiento Verbal, Artículo 138: ARTÍCULO 138. De los recursos contra la decisión adoptada en el Procedimiento Verbal. Contra el fallo producido en audiencia procederán los siguientes\nrecursos:\n\n 1. Para las faltas leves: Recurso de reposición que se interpondrá en\n audiencia y se sustentará en la misma o por escrito dentro de los dos\n (2) días hábiles siguientes ante el Director de Programa, quien deberá\n resolverlo, en audiencia o dentro de los dos (2) días hábiles siguientes\n a la sustentación del recurso.\n 2. Para las faltas graves y gravísimas, en flagrancia o confesión: recurso\n de apelación, que se interpondrá en audiencia y será sustentado por\n escrito dentro de tres (3) días siguientes a la audiencia. El recurso\n será decidido por el Consejo de Facultad dentro de los cinco (5) días\n hábiles siguientes a su sustentación.\n\nParágrafo 1. En caso de no sustentarse el recurso interpuesto en el término aquí\nprevisto, éste se tendrá como desistido.",
+      "similitud": 0.644854226401701,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 16,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "77",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO SEXTO: Del Procedimiento Verbal | ARTÍCULO 138",
+       "version": "2019",
+       "articulo": "138",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: Del Procedimiento Verbal",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: Del Procedimiento Regular, Artículo 133: ARTÍCULO 133. Del trámite de segunda instancia en el procedimiento regular. Presentado el recurso de apelación, se surtirán las siguientes actuaciones:\n\n 1. El Decano de Facultad, en nombre del Consejo de Facultad, decidirá,\n en el día hábil siguiente, la concesión o rechazo del mismo.\n 2. Siendo procedente el recurso, remitirá el expediente al Secretario del\n Consejo Académico, quien dentro de los dos (2) días hábiles siguientes designará por orden alfabético como ponente a uno de los Decanos integrantes del Consejo Académico.\n 3. El Decano ponente preparará y presentará el proyecto de fallo ante el\n Consejo Académico.\n\nEl Consejo Académico se reunirá dentro de ocho (8) días hábiles siguientes a la\ndesignación del ponente. La decisión deberá ser aprobada por la mitad más uno\nde los asistentes, previa verificación del quórum deliberatorio.\n\nParágrafo 1. El Consejo Académico únicamente estudiará los aspectos vinculados al objeto de la apelación, salvo cuando se trate del proceso seguido contra\nun graduado, en cuyo caso estudiará toda la decisión de primera instancia. No\nse podrá agravar la decisión de primera instancia.\n\nParágrafo 2. Como garantía del derecho al debido proceso, se excluirá de la\nvotación y de su presencia en las deliberaciones que resuelvan el recurso, al\nmiembro del Consejo Académico que de cualquiera manera haya participado en\nel trámite en primera instancia.",
+      "similitud": 0.642641582646465,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 21,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "73",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO QUINTO: Del Procedimiento Regular | ARTÍCULO 133",
+       "version": "2019",
+       "articulo": "133",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: Del Procedimiento Regular",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 11,
+   "pregunta": "Si repito una materia que perdí, ¿qué nota queda registrada?",
+   "esperado": {
+    "art": [
+     "53"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "Si repito una materia que perdí, ¿qué nota queda registrada?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 53: ARTÍCULO 53. Cuando se pierda un curso o módulo y éste se repita, el sistema\nregistrará la nota más alta en el periodo académico donde la haya obtenido.",
+      "similitud": 0.7558760868274,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 2,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "28",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 53",
+       "version": "2019",
+       "articulo": "53",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Cuando los profesores incurran en errores de cómputo, de digitación u omisión\nen el registro de notas en el sistema, el estudiante tiene derecho a solicitar por\nescrito al Director o Coordinador de Programa la revisión de la nota registrada\nacompañada de las pruebas que tenga, dentro de los dos (2) días hábiles siguientes a la fecha establecida en el cronograma académico para el registro de\ncalificaciones; inmediatamente se dará traslado de la petición al profesor, quien\ninformará por escrito al Director o Coordinador del Programa, dentro del día (1)\nhábil siguiente a la fecha de recibo de la solicitud, si ratifica o corrige el registro\ninicial.",
+      "similitud": 0.694685262124853,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 15
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "27",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 52",
+       "version": "2019",
+       "articulo": "52",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 2. Los estudiantes en prueba académica por haber obtenido un PGA\ninferior a tres, punto, cero, cero (3.00) solo podrán acogerse al Programa de Recuperación Académica por una única vez durante la permanencia del estudiante\nen el programa académico; de volver a obtener un PGA inferior a tres, punto,\ncero, cero (3.00), perderán definitivamente su derecho de renovación de matrícula en el respectivo programa, de conformidad con lo establecido en el artículo\n12 de este reglamento.\n\nParágrafo 3. Cada programa, junto con Bienestar Universitario, realizará el control y seguimiento de estos casos.",
+      "similitud": 0.686437167353973,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 20,
+         "from": 14
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "43",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos | ARTÍCULO 85",
+       "version": "2019",
+       "articulo": "85",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 39: ARTÍCULO 39. La calificación final de cada módulo o curso se expresará en unidades y décimas sin aproximaciones y eliminando las cifras decimales restantes\nque resulten de su cómputo. Así mismo, podrá ser aprobada (A) o reprobada (R),\nsegún lo definido en el Currículo Institucional y de acuerdo con los criterios a los\nque se refiere el artículo precedente.",
+      "similitud": 0.667966485023499,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 4,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 39",
+       "version": "2019",
+       "articulo": "39",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Parágrafo 3. El estudiante podrá cancelar un mismo curso o modulo hasta dos\nveces. Matriculado por tercera vez, deberá culminarlo.\n\nParágrafo 4. Solo habrá lugar a la devolución del valor de matrícula por la cancelación parcial o total de cursos, dentro de las fechas establecidas en el cronograma académico y según la política financiera institucional.",
+      "similitud": 0.665025731025594,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 22,
+         "from": 19
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "12",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 13",
+       "version": "2019",
+       "articulo": "13",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 12,
+   "pregunta": "¿Cuántas horas de trabajo equivale un crédito académico?",
+   "esperado": {
+    "art": [
+     "32"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cuántas horas de trabajo equivale un crédito académico?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca-, Artículo 32: ARTÍCULO 32. Crédito. Los créditos académicos son la unidad de medida del\ntrabajo académico para expresar todas las actividades que hacen parte del plan\nde estudios que deben cumplir los estudiantes.\n\nUn crédito académico equivale a cuarenta y ocho (48) horas de trabajo académico del estudiante; comprende las horas con acompañamiento directo del docente y las horas de trabajo independiente que el estudiante debe dedicar a la\nrealización de actividades de estudio, prácticas u otras que sean necesarias para\nalcanzar las metas de aprendizaje.\n\nParágrafo 1. El número de créditos de una actividad académica será expresado\nsiempre en números enteros y teniendo en cuenta la relación de horas con acompañamiento directo de docente y las horas adicionales de trabajo independiente\nen programas de pregrado, en concordancia con la normatividad vigente.\nParágrafo 2. La proporción entre horas de trabajo con acompañamiento directo\ndel docente y las horas de trabajo independiente del estudiante, para el cálculo\nde los créditos de una actividad académica, podrá variarse como resultado de\nun estudio sobre calidad de tiempo y estrategias requeridas para el cumplimiento\nde las competencias previstas de cada curso o módulo en que se aplique la variación. Dicha variación deberá ser avalada por el Consejo de Facultad y aprobada por el Consejo Académico para su aplicación.",
+      "similitud": 0.786642455656602,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 16,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "21",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca- | ARTÍCULO 32",
+       "version": "2019",
+       "articulo": "32",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Cada curso tendrá una duración total de 32 horas, distribuidas en 2 horas semanales durante 16 semanas (semestre académico). El sistema de evaluación será Aprobado / No aprobado, según la calificación final. Se considera aprobado con una nota superior a 3.0. Estos cursos no otorgan créditos académicos y no están incluidos en el plan de estudios del registro calificado, adoptando un tratamiento similar al de los cursos de Lenguas dentro del PEI. Se dictarán bajo la metodología basada en competencias, y con una didáctica activa fundamentada en retos y resolución de problemas interdisciplinarios.",
+      "similitud": 0.690430304122875,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 75,
+         "from": 75
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-, Artículo 20: ARTÍCULO 20. En la historia académica del estudiante se registrará el resultado\ndel estudio de homologación que incluye el número de créditos del programa en\nel que se homologa, dentro del periodo académico en que se realiza la homologación, siempre y cuando el estudiante se encuentre matriculado en el mismo.",
+      "similitud": 0.654612042697081,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "16",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio- | ARTÍCULO 20",
+       "version": "2019",
+       "articulo": "20",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO QUINTO: De la evaluación del aprendizaje, Artículo 40: ARTÍCULO 40. Del cálculo del PPA y PGA. Los Promedios de Período Académico (PPA) y General Acumulado (PGA) se obtienen de multiplicar la calificación\nfinal obtenida en cada módulo o curso, por el número de créditos respectivos. La\nsuma de estos resultados se divide entre el total de créditos cursados.\n\nLos Promedios del Período Académico y el General Acumulado se expresan en\nunidades, décimas y centésimas, sin aproximaciones y eliminando las cifras decimales restantes que resulten de su cómputo.",
+      "similitud": 0.640911359814148,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 6,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "23",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO QUINTO: De la evaluación del aprendizaje | ARTÍCULO 40",
+       "version": "2019",
+       "articulo": "40",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO QUINTO: De la evaluación del aprendizaje",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Guía de cátedra MATE19029 (MATE19029): Código: DOC11-FO-01\n Proceso: Formulación del\n Versión: 3\n Currículo y Plan de Estudios\n Fecha: 23/05/2019\n Guía de Cátedra\n Hoja: Página 1 de 3\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 4\n CALCULO DIFERENCIAL MATE MATE 19029\n\n Facultad/ Departamento SIN ESCUELA DESIGNADA\n Programa que Administra el curso o módulo DPTO DE MATEMAT Y CIENCIAS NAT\n Técnico Profesional Especialización\n Niveles de Formación Tecnológico Profesional Maestría\n Profesional X Doctorado\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 64 Número de horas de trabajo independiente: 112\n Fecha de actualización de la guía: 07/09/2021\n\n2. Conocimientos previos requeridos para el curso\nConceptos fundamentales de Algebra y Trigonometría",
+      "similitud": 0.635320877331629,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 24,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "MATE19029.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "MATE19029",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "98bc75cf-b7f3-43b0-b985-ada12a19a5ac",
+       "codigo_asignatura": "MATE19029"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 13,
+   "pregunta": "¿Qué requisitos me piden para homologar materias que cursé en otra universidad?",
+   "esperado": {
+    "art": [
+     "17",
+     "18",
+     "19"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Qué requisitos me piden para homologar materias que cursé en otra universidad?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-, Artículo 19: ARTÍCULO 19. Requisitos para la homologación:\n\n 1. Los programas de procedencia cuenten con reconocimiento aprobado\n por el Ministerio de Educación Nacional Colombiano o de la autoridad\n competente del país de origen, acompañado de la respectiva certificación.\n 2. Las actividades académicas cursadas en programas de la UNAB y\n aprobadas con una calificación final de tres, punto, cero (3.0) o superior; con excepción de lo establecido en el parágrafo del artículo 12\n del presente reglamento.\n 3. Las actividades académicas cursadas en programas de otras instituciones y aprobadas con una calificación final de tres, punto, cinco (3.5)\n\n o superior, o su equivalente; con excepción de lo establecido en convenios vigentes interinstitucionales.\n\nParágrafo. Las homologaciones de actividades académicas realizadas con instituciones en convenio no requieren presentar certificaciones que demuestren el\nreconocimiento oficial del programa de procedencia.",
+      "similitud": 0.752218224042127,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "15",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio- | ARTÍCULO 19",
+       "version": "2019",
+       "articulo": "19",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-, Artículo 18: ARTÍCULO 18. La homologación de cursos aplica en los siguientes casos:\n\n 1. En las transferencias previstas en el artículo 14 de este reglamento.\n 2. En el reconocimiento de actividades académicas cumplidas en carrera\n simultánea.\n 3. En ejecución de los convenios de intercambio estudiantil, ya sea que\n se realice en Instituciones de educación superior colombianas o en\n país extranjero.\n 4. En los programas en convenio con otras instituciones, en las condiciones acordadas en el respectivo convenio y de acuerdo con la ley\n colombiana.\n 5. En el caso de estudiantes que hayan perdido el derecho a renovar\n matrícula por bajo rendimiento académico en un programa y soliciten\n admisión a otro programa de la Universidad, según lo establecido en\n el parágrafo del artículo 12 del presente reglamento.",
+      "similitud": 0.740105582494542,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "15",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio- | ARTÍCULO 18",
+       "version": "2019",
+       "articulo": "18",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-, Artículo 17: ARTÍCULO 17. Homologaciones. La homologación es un proceso en el que,\npor solicitud formal del estudiante, se reconocen actividades académicas realizadas dentro o fuera de la Institución, en un plan de estudios de la UNAB.\n\nEl Consejo de Facultad decidirá sobre la solicitud, previo concepto del Comité\nCurricular del programa, que comprende la evaluación por parte de profesores\npertenecientes a los diferentes Programas y Departamentos Académicos de la\nUNAB.\n\nParágrafo 1. La homologación en todas sus etapas deberá contemplar la orientación, propósitos y resultados del aprendizaje relacionados con la titulación, el\nlogro de competencias de formación y la valoración en créditos.",
+      "similitud": 0.738882623281565,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 10,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "14",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio- | ARTÍCULO 17",
+       "version": "2019",
+       "articulo": "17",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-, Artículo 15: ARTÍCULO 15. La solicitud de admisión por transferencia se realiza a través de\nla plataforma de admisiones de la institución, dentro de la fecha establecida en\nel cronograma académico, acompañada de los siguientes documentos:\n\n 1. Certificado de calificaciones detalladas por curso emitido por la Institución de procedencia, así como el Promedio General Acumulado\n (PGA), el cual deberá ser igual o superior a tres, punto, cinco, cero\n (3.50).\n 2. Certificado de competencias o contenidos programáticos de cada uno\n de los cursos cuya calificación sea igual o superior a tres, punto, cinco\n (3.5), en escala de cero, punto cero (0.0) a cinco, punto, cero (5.0) o\n su equivalente, emitido por la Institución de procedencia.\n 3. Recibo de pago del valor del estudio de homologación y equivalencia.\n 4. Demás documentos de admisión exigidos por la Institución.\n\nParágrafo 1. La documentación presentada por los solicitantes que provengan\nde universidades del exterior deberá cumplir los requisitos establecidos por el\nordenamiento jurídico colombiano.\n\nParágrafo 2. Para transferencias internas los documentos enunciados en los numerales 1 y 2 serán tramitados internamente y el estudio de homologación y\nequivalencia no causa erogaciones.",
+      "similitud": 0.728656362650936,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 20,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "13",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio- | ARTÍCULO 15",
+       "version": "2019",
+       "articulo": "15",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De las transferencias, equivalencias y homologacio-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 58: ARTÍCULO 58. Los estudiantes que cursen programas de manera simultánea\ndeben cumplir con los créditos de la práctica académica en cada programa. En\ntodo caso, estos estudiantes pueden solicitar el estudio de homologación de la\npráctica realizada en su primer programa, en otro programa, cuando cumpla con\nlos siguientes requisitos:\n 1. Los programas deben pertenecer al mismo campo de formación.\n 2. Concepto favorable del Comité Curricular y aprobación del Consejo\n de la Facultad.\n 3. Las competencias, perfil profesional y créditos académicos deben corresponder a los exigidos para la titulación del programa en que se\n realiza el estudio de homologación.",
+      "similitud": 0.725972002086523,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 10,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "29",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 58",
+       "version": "2019",
+       "articulo": "58",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 14,
+   "pregunta": "¿Cuáles son los requisitos para obtener el título de pregrado?",
+   "esperado": {
+    "art": [
+     "67"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cuáles son los requisitos para obtener el título de pregrado?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SÉPTIMO. De los grados, Artículo 67: ARTÍCULO 67. Son requisitos para obtener el título en estudios de pregrado:\n\n a. Tener todas las calificaciones de sus actividades académicas registradas y aprobadas en la historia académica institucional.\n b. Acreditar el nivel de inglés exigido en el currículo y certificado por el\n Departamento de Lenguas de la UNAB o una prueba internacional\n avalada por el mismo.\n c. Haber cursado y aprobado las actividades del componente instrumental en Informática y Bienestar Universitario definido por la Universidad.\n d. Haber obtenido un Promedio General Acumulado igual o superior a\n tres, punto, dos, cero (3.20) en el programa en que se solicita su titulación.\n e. Diligenciar y entregar la solicitud de grado en las fechas establecidas\n en el cronograma académico de grados.\n f. No estar siendo investigado dentro de un proceso disciplinario ni en\n cumplimiento de una sanción.\n g. Acreditar los documentos legales y académicos exigidos para la obtención del respectivo título. Los estudiantes extranjeros deberán presentar pasaporte vigente.\n h. Cumplir con los demás requisitos exigidos por cada programa.\n\n i. Estar a Paz y Salvo por todo concepto con la Institución y cancelar los\n derechos de grado exigidos por la Universidad.\n j. Acreditar la presentación del Examen de Calidad de la Educación Superior establecido por el Estado colombiano.",
+      "similitud": 0.745469406517195,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 19,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "33",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SÉPTIMO. De los grados | ARTÍCULO 67",
+       "version": "2019",
+       "articulo": "67",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SÉPTIMO. De los grados",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: De la admisión y matrícula, Artículo 2: ARTÍCULO 2. La UNAB admitirá en calidad de estudiante de pregrado al solicitante que cumpla los requisitos establecidos por la ley y la Institución a través\ndel proceso de admisión.",
+      "similitud": 0.680319709854062,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 2,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "7",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO PRIMERO: De la admisión y matrícula | ARTÍCULO 2",
+       "version": "2019",
+       "articulo": "2",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: De la admisión y matrícula",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SÉPTIMO. De los grados, Artículo 68: ARTÍCULO 68. Un estudiante podrá solicitar su graduación si cumple con todos\nlos requisitos exigidos para ello hasta tres (3) años después de finalizadas las\nactividades académicas exigidas para su titulación. Posterior a este tiempo, requiere solicitar reintegro para su actualización académica ante el respectivo programa y cumplir con los requisitos establecidos por el Consejo de Facultad.",
+      "similitud": 0.680247604846959,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "34",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SÉPTIMO. De los grados | ARTÍCULO 68",
+       "version": "2019",
+       "articulo": "68",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SÉPTIMO. De los grados",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SÉPTIMO. De los grados, Artículo 69: ARTÍCULO 69. Grado Póstumo. A juicio del Consejo Académico y por solicitud\ndel Decano de Facultad podrá otorgársele el grado póstumo a un estudiante fallecido que haya cumplido con todos los requisitos exigidos por el programa. Esta\nmodalidad de grado no tendrá costo.\n\nParágrafo: Para los efectos aquí establecidos, se considerará haber cumplido\ncon los requisitos exigidos, cuando se haya cursado la totalidad de créditos que\ncorresponden al programa en que estuviere matriculado el estudiante fallecido y\nno mediar más de tres (3) años entre la fecha de la terminación de dichos estudios y la de su fallecimiento.",
+      "similitud": 0.677629094962641,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 8,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "34",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SÉPTIMO. De los grados | ARTÍCULO 69",
+       "version": "2019",
+       "articulo": "69",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SÉPTIMO. De los grados",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: Estímulos y distinciones, Artículo 89: ARTÍCULO 89. La Universidad, previa aprobación del Consejo Académico, otorgará las siguientes distinciones:\n\n1. Para los estudios de pregrado profesional:\n a) Distinción CUM LAUDE al estudiante que al terminar su programa de pregrado alcance un promedio general acumulado de cuatro, punto, dos,\n cinco (4.25) a cuatro, punto, cinco, cero (4.50) y éste se encuentre igual o\n\n por encima del percentil noventa y cinco (95) de los graduados de su programa en los últimos cinco años.\n b) Si el promedio fuere de cuatro, punto, cinco, uno (4.51) a cuatro, punto,\n siete, cinco (4.75) y éste se encuentre igual o por encima del percentil\n noventa y cinco (95) de los graduados de su programa en los últimos cinco\n años, se otorgará la distinción MAGNA CUM LAUDE.\n c) El estudiante con promedio superior a cuatro, punto, siete, cinco (4.75) y\n que se encuentre igual o por encima del percentil noventa y cinco (95) de\n los graduados de su programa en los últimos cinco años, recibirá la distinción SUMMA CUM LAUDE.\n\n2. Para los estudios de pregrado técnicos y tecnológicos:\n\n Al término de los estudios se concederá MENCIÓN DE HONOR a aquellos estudiantes que durante la carrera hubiesen obtenido un promedio\n general acumulado de cuatro, punto, cinco, cero (4.50) o superior y un\n percentil igual o superior a noventa y ocho (98) de los graduados de su\n programa en los últimos cinco años.",
+      "similitud": 0.671258767993303,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 21,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "45",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO SEGUNDO: Estímulos y distinciones | ARTÍCULO 89",
+       "version": "2019",
+       "articulo": "89",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: Estímulos y distinciones",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 15,
+   "pregunta": "¿Cómo funciona la práctica académica y qué objetivos tiene?",
+   "esperado": {
+    "art": [
+     "55",
+     "56",
+     "57"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cómo funciona la práctica académica y qué objetivos tiene?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 57: ARTÍCULO 57. Objetivos de la práctica académica. La práctica debe cumplir\ncon los siguientes objetivos:\n\n 1. Complementar los conocimientos adquiridos durante la formación\n académica.\n 2. Favorecer la adquisición de competencias útiles para el ejercicio profesional.\n 3. Facilitar la vinculación con organizaciones sociales y empresariales.\n 4. Fomentar la capacidad de emprendimiento.\n 5. Validar contenidos, procesos y estrategias utilizados en el currículo\n mediante la investigación y la estrecha relación con el entorno.",
+      "similitud": 0.726082308654924,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 10,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "29",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 57",
+       "version": "2019",
+       "articulo": "57",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 56: ARTÍCULO 56. Naturaleza de la práctica académica. La práctica académica\nes un curso del plan de estudios de las titulaciones de los niveles de pregrado\nde la Universidad. Para su inscripción, el estudiante debe haber cumplido con\nlos prerrequisitos exigidos por el programa.",
+      "similitud": 0.719548149081956,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 4,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "29",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 56",
+       "version": "2019",
+       "articulo": "56",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 55: ARTÍCULO 55. Prácticas académicas. Las prácticas académicas son el conjunto de acciones curriculares sistemáticas, eficaces, sostenibles y flexibles, realizadas por estudiantes en formación profesional, para responder a expectativas\ny necesidades de organizaciones sociales y empresariales. Las prácticas permiten afianzar destrezas y habilidades en escenarios de intervención de diversos\nsectores. Su cumplimiento, evaluación y aprobación compromete competencias\nacadémicas, profesionales y humanas dadas en el contexto de la relación con\nlos sitios de práctica.\n\nParágrafo 1. Las acciones de práctica académica son definidas y diseñadas por\nlos programas de pregrado, con criterios éticos y técnicos alineados con los valores institucionales.\n\nParágrafo 2. La documentación de las prácticas académicas está compuesta por\nlos informes que profesores, estudiantes y el escenario de práctica entregan durante y al finalizar su ejecución, junto con la evaluación del curso.\n\nParágrafo 3. Cada programa definirá la reglamentación específica de la práctica\nacadémica previamente aprobada por el Consejo de Facultad y Consejo Académico.",
+      "similitud": 0.717292700136598,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 14,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "28",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 55",
+       "version": "2019",
+       "articulo": "55",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-, Artículo 54: ARTÍCULO 54. La investigación y la práctica académica como ejes transversales\ndel currículo son soportes que facilitan la integración de capacidades en la formación profesional. Vinculan y conectan las actividades curriculares con objetivos específicos. Integran las dimensiones del ser, saber, hacer y convivir en actividades de formación previstas en los planes de estudio como conceptos, procedimientos, valores y actitudes. Son interdisciplinarios, tanto en el diseño y formulación de unidades de aprendizaje, como en su ejecución en la resolución de\nproblemas sociales, éticos y morales presentes en su entorno.",
+      "similitud": 0.6819597889161,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "28",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé- | ARTÍCULO 54",
+       "version": "2019",
+       "articulo": "54",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEXTO: De la investigación y la práctica como soportes acadé-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "2. Conocimientos previos requeridos para el curso\nProyecto en Ingeniería de Sistemas II\n\n3. Justificación\nLa práctica académica es el espacio curricular dentro del plan de Ingeniería de Sistemas, mediante el cual los estudiantes regulares\ncomplementan su formación profesional aplicando, por fuera del aula, sus conocimientos a situaciones técnicas y culturales\nespecíficas como una forma de proyectar el quehacer de la universidad a la sociedad y contribuir al mejoramiento de las\norganizaciones del ámbito regional, nacional e internacional. El elemento social de la práctica logra que estudiantes y docentes\ncomprendan la problemática, los factores y características de la vida comunitaria mediante un acercamiento vivencial que permita\nproyectar el conocimiento teórico en las estructuras sociales del entorno. En general, las prácticas en la UNAB se denominan\nacadémicas dada su connotación curricular, pero consideran la dimensión social como enfoque básico para su desarrollo. Por lo\ntanto, las actividades que el practicante realice durante el semestre de práctica deben cumplir con el objetivo pedagógico de la misma",
+      "similitud": 0.67470534738366,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 34,
+         "from": 23
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "SIST18015.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "SIST18015",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "741fdb2a-df8b-4aea-8f07-83ebcb123f40",
+       "codigo_asignatura": "SIST18015"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 16,
+   "pregunta": "¿Qué se considera plagio y qué sanción puede tener?",
+   "esperado": {
+    "art": [
+     "101",
+     "102",
+     "104"
+    ]
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Qué se considera plagio y qué sanción puede tener?",
+    "resultados": [
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De la clasificación de las faltas, Artículo 101: ARTÍCULO 101. Del Plagio. Para los efectos del régimen disciplinario consagrado en este reglamento, se entiende como plagio toda conducta dirigida a presentar como propia la creación intelectual realizada por otra persona. Son conductas de plagio, entre otras, la copia a compañeros en exámenes, pruebas o\ntrabajos, y la transcripción total o parcial de obras en las actividades académicas\nsin observancia de las respectivas normas de citación.",
+      "similitud": 0.76426930108094,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "54",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO SEGUNDO: De la clasificación de las faltas | ARTÍCULO 101",
+       "version": "2019",
+       "articulo": "101",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De la clasificación de las faltas",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "3. Para falta leve:\n a. Amonestación verbal con compromiso firmado por el estudiante y sin anotación en la hoja de vida.\n b. Amonestación privada acompañada de un compromiso firmado por el estudiante con copia a la hoja de vida.\n\nParágrafo 1. Cuando la falta disciplinaria sea plagio o fraude académico, el profesor se abstendrá de calificar la actividad académica y el curso correspondiente\nquedará con nota pendiente, que permanecerá como calificación provisional\nhasta que culmine el proceso disciplinario.\n\nParágrafo 2. Cuando la sanción impuesta sea la revocatoria del título otorgado,\nademás se deberá comunicar a las entidades externas a las cuales se haya informado el grado para los trámites de su competencia.",
+      "similitud": 0.718388280820498,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 32,
+         "from": 23
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "55",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO TERCERO: De las Sanciones | ARTÍCULO 104",
+       "version": "2019",
+       "articulo": "104",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO TERCERO: De las Sanciones",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De la clasificación de las faltas, Artículo 99: ARTÍCULO 99. De las faltas graves.\nConstituyen faltas graves:\n1. Propiciar, instigar o participar en riñas dentro de LA UNAB, salvo que constituya la falta gravísima establecida en el ordinal 3 del artículo precedente.\n2. Cualquier conducta de acoso sobre un miembro de la comunidad académica\n o personal al servicio de la Universidad que no esté determinada como gravísima.\n3. Incurrir en fraude académico o plagio en cualquier tipo de evaluación, trabajo\n o actividad académica.\n4. Usar el nombre, la insignia o la marca de la UNAB, el carné universitario, el\n uniforme, u otro documento o emblema institucional en forma fraudulenta\n para realizar actividades no relacionadas con el proceso académico.\n5. Suplantar, hacerse suplantar o simular la asistencia a evaluaciones académicas, actividades o eventos institucionales distintos a los mencionados\n como falta gravísima.\n6. Usar o permitir el uso de los códigos y claves de acceso a los servicios informáticos ofrecidos por la universidad en forma fraudulenta para la sustitución\n o suplantación de la identidad.\n7. El manejo indebido o inadecuado de documentos de uso privado, historias\n clínicas, expedientes judiciales o bases de datos, de acuerdo con las disposiciones particulares fijadas al respecto.",
+      "similitud": 0.689878981702267,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 16,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "52",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO SEGUNDO: De la clasificación de las faltas | ARTÍCULO 99",
+       "version": "2019",
+       "articulo": "99",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De la clasificación de las faltas",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "7. La conducta intencional que tenga por efecto una grave lesión o ponga en\n grave riesgo la seguridad, la integridad personal o moral, la libertad, la intimidad y el honor sexual, de un miembro de la comunidad académica o personal al servicio de la Universidad.\n8. Comercializar, consumir o inducir al consumo de licor o de sustancias psicoactivas en los predios de la institución o en desarrollo de las actividades\n académicas e institucionales sin importar el lugar en donde se realizan. Se\n exceptúa de ésta conducta el consumo moderado de bebidas alcohólicas\n que haya sido autorizado en eventos organizados por la UNAB.\n9. Engañar a las autoridades universitarias sobre el cumplimiento de requisitos\n académicos, administrativos y financieros establecidos por la Universidad.\n10. Hacer plagio o fraude académico en el desarrollo o presentación de trabajos\n de grado o los productos derivados del mismo.\n11. Recibir, dar, solicitar u ofrecer dinero, promesa remuneratoria, o cualquier\n tipo de provecho o ventaja, con el propósito de obtener calificaciones, beneficios o reconocimientos que no correspondan a los logros obtenidos en el\n proceso de aprendizaje.\n12. Adquirir, sustraer, divulgar o cambiar los contenidos de las evaluaciones académicas, calificaciones, o cualquier otro documento que incida en el resultado de la evaluación.\n13. Cualquier conducta destinada a desacatar la sanción disciplinaria o a burlar\n sus efectos.",
+      "similitud": 0.682143749190308,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 31,
+         "from": 16
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "50",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO SEGUNDO: De la clasificación de las faltas | ARTÍCULO 98",
+       "version": "2019",
+       "articulo": "98",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De la clasificación de las faltas",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO SEGUNDO: De la clasificación de las faltas, Artículo 102: ARTÍCULO 102. Del Fraude Académico. Constituye fraude académico cualquier conducta que infrinja las reglas de desarrollo de una actividad académica,\ndirigida a inducir o a mantener en error a un profesor, evaluador o autoridad universitaria respecto a la realización, presentación, evaluación o calificación. Son\nconductas de fraude académico, sin restringirse a éstas, la utilización de ayudas\nno autorizadas en exámenes, pruebas o trabajos, o la alteración del contenido\nde una evaluación ya corregida.",
+      "similitud": 0.676668742994408,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 5,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "54",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO CUARTO: Del Régimen Disciplinario | CAPÍTULO SEGUNDO: De la clasificación de las faltas | ARTÍCULO 102",
+       "version": "2019",
+       "articulo": "102",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO SEGUNDO: De la clasificación de las faltas",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 17,
+   "pregunta": "¿Cuántos créditos tiene Cálculo Diferencial y cuántas horas con el profesor?",
+   "esperado": {
+    "cod": "MATE19029"
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Cuántos créditos tiene Cálculo Diferencial y cuántas horas con el profesor?",
+    "resultados": [
+     {
+      "contenido": "Guía de cátedra MATE19029 (MATE19029): Código: DOC11-FO-01\n Proceso: Formulación del\n Versión: 3\n Currículo y Plan de Estudios\n Fecha: 23/05/2019\n Guía de Cátedra\n Hoja: Página 1 de 3\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 4\n CALCULO DIFERENCIAL MATE MATE 19029\n\n Facultad/ Departamento SIN ESCUELA DESIGNADA\n Programa que Administra el curso o módulo DPTO DE MATEMAT Y CIENCIAS NAT\n Técnico Profesional Especialización\n Niveles de Formación Tecnológico Profesional Maestría\n Profesional X Doctorado\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 64 Número de horas de trabajo independiente: 112\n Fecha de actualización de la guía: 07/09/2021\n\n2. Conocimientos previos requeridos para el curso\nConceptos fundamentales de Algebra y Trigonometría",
+      "similitud": 0.740481286106268,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 24,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "MATE19029.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "MATE19029",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "98bc75cf-b7f3-43b0-b985-ada12a19a5ac",
+       "codigo_asignatura": "MATE19029"
+      }
+     },
+     {
+      "contenido": "¿Interpretación geométrica de la derivada¿Velocidad promedio y\n Velocidad instantánea¿Concepto de derivada¿Reglas para\n encontrar la derivada – Regla de la cadena¿Derivada de funciones\n algebraicas. Teoremas y cálculo¿Derivadas de funciones\n trigonométricas y trigonométricas inversas¿Derivadas de funciones\n exponenciales y funciones logarítmicas¿Derivadas de funciones\n hiperbólicas¿Derivadas de orden superior¿Derivación\n 3 CÁLCULO DIFERENCIAL Implícita¿Tasas de cambio relacionadas¿Diferenciales y\n aproximaciones lineales¿Cálculo de límites: Teorema de\n Lh^opital¿Optimización de funciones. Trazado de gráficas\n (Máximos, mínimos, regiones de crecimiento, regiones de\n decrecimiento, regiones de concavidad, punto de inflexión y\n asíntotas.)¿Problemas de optimización¿Teorema del Valor medio y\n sus aplicaciones\n\n6. Evaluación y calificación\n Actividades o tipos de actividades Porcentaje\nI corte. Exámenes Escritos (2) 60\nI corte.Quices y Talleres 20\nI corte.Curso de Nivelación 20\nII corte. Exámenes Escritos (2) 60\nII corte.Quices y Talleres 20\nIIcorte Proyecto Integrador 20\n\n7. Bibliografía\n\n-Stewart, J. (2006). Cálculo, conceptos y contextos. 3 ed. México: Thomson\n-Purcell, (2006) . Cálculo. 9 ed. México: Prentice Hall. (Disponible http://unab.edu.co/servicios/libros-digitales Biblioteca Virtual\nPearson)\n\n-Leithold (2005). El Cálculo con Geometría Analítica. 22ed. México: Trillas.\n\nLarson, Ron & Hostetller, Robert P. Cálculo. Editorial McGraw-Hil. México. 2006.",
+      "similitud": 0.70992008329391,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 107,
+         "from": 75
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "MATE19029.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "MATE19029",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "98bc75cf-b7f3-43b0-b985-ada12a19a5ac",
+       "codigo_asignatura": "MATE19029"
+      }
+     },
+     {
+      "contenido": "Guía de cátedra MATE19032 (MATE19032): Código: DOC11-FO-01\n Proceso: Formulación del\n Versión: 3\n Currículo y Plan de Estudios\n Fecha: 23/05/2019\n Guía de Cátedra\n Hoja: Página 1 de 3\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 3\n ECUACIONES DIFERENCIALES MATE MATE 19032\n\n Facultad/ Departamento SIN ESCUELA DESIGNADA\n Programa que Administra el curso o módulo DPTO DE CIENCIAS BASICAS\n Técnico Profesional Especialización\n Niveles de Formación Tecnológico Profesional Maestría\n Profesional X Doctorado\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 64 Número de horas de trabajo independiente: 80\n Fecha de actualización de la guía: 12/05/2022\n\n2. Conocimientos previos requeridos para el curso\nCálculo DiferencialCálculo IntegralCálculo en varias variables",
+      "similitud": 0.708830808540491,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 24,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "MATE19032.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "MATE19032",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "c31abf3c-378d-414d-8a9a-2c08e3592be8",
+       "codigo_asignatura": "MATE19032"
+      }
+     },
+     {
+      "contenido": "Guía de cátedra MATE19030 (MATE19030): Código: DOC11-FO-01\n Proceso: Formulación del\n Versión: 3\n Currículo y Plan de Estudios\n Fecha: 23/05/2019\n Guía de Cátedra\n Hoja: Página 1 de 2\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 4\n CALCULO INTEGRAL MATE MATE 19030\n\n Facultad/ Departamento SIN ESCUELA DESIGNADA\n Programa que Administra el curso o módulo DPTO DE MATEMAT Y CIENCIAS NAT\n Técnico Profesional Especialización\n Niveles de Formación Tecnológico Profesional Maestría\n Profesional X Doctorado\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 80 Número de horas de trabajo independiente: 112\n Fecha de actualización de la guía: 17/08/2021\n\n2. Conocimientos previos requeridos para el curso\nCálculo Diferencial\n\n3. Justificación\nEl curso de Cálculo Integral proporciona al estudiante herramientas que le permitan abordar problemas de tipo geométrico y físico\nque implican el concepto de medida. Para el estudio de cálculo integral se requiere reconocer la integración como la operación\ninversa de la derivación formalizado a través del Teorema fundamental del cálculo. La solución de algunas situaciones matemáticas,\ncomo hallar áreas, volúmenes y longitudes de arco, y así mismo enfrentarse a conceptos físicos como trabajo, momentos de inercia y\ncentros de masa, hacen necesario desarrollar en este nivel el concepto de Integral definida como la generalización.",
+      "similitud": 0.695945483204454,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 31,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "MATE19030.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "MATE19030",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "062075a0-1220-4085-9b79-edc331eeefd6",
+       "codigo_asignatura": "MATE19030"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca-, Artículo 32: ARTÍCULO 32. Crédito. Los créditos académicos son la unidad de medida del\ntrabajo académico para expresar todas las actividades que hacen parte del plan\nde estudios que deben cumplir los estudiantes.\n\nUn crédito académico equivale a cuarenta y ocho (48) horas de trabajo académico del estudiante; comprende las horas con acompañamiento directo del docente y las horas de trabajo independiente que el estudiante debe dedicar a la\nrealización de actividades de estudio, prácticas u otras que sean necesarias para\nalcanzar las metas de aprendizaje.\n\nParágrafo 1. El número de créditos de una actividad académica será expresado\nsiempre en números enteros y teniendo en cuenta la relación de horas con acompañamiento directo de docente y las horas adicionales de trabajo independiente\nen programas de pregrado, en concordancia con la normatividad vigente.\nParágrafo 2. La proporción entre horas de trabajo con acompañamiento directo\ndel docente y las horas de trabajo independiente del estudiante, para el cálculo\nde los créditos de una actividad académica, podrá variarse como resultado de\nun estudio sobre calidad de tiempo y estrategias requeridas para el cumplimiento\nde las competencias previstas de cada curso o módulo en que se aplique la variación. Dicha variación deberá ser avalada por el Consejo de Facultad y aprobada por el Consejo Académico para su aplicación.",
+      "similitud": 0.694704651832581,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 16,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "21",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO PRIMERO: De las normas generales que rigen | CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca- | ARTÍCULO 32",
+       "version": "2019",
+       "articulo": "32",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO CUARTO: Del currículo, el plan de estudios y actividades aca-",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 18,
+   "pregunta": "¿Infraestructura Tecnológica tiene prerrequisitos y en qué semestre se ve?",
+   "esperado": {
+    "cod": "COMP18039"
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Infraestructura Tecnológica tiene prerrequisitos y en qué semestre se ve?",
+    "resultados": [
+     {
+      "contenido": "Guía de cátedra COMP18039 (COMP18039): Código: DOC11-FO-01\n Proceso: Formulación del\n Versión: 3\n Currículo y Plan de Estudios\n Fecha: 23/05/2019\n Guía de Cátedra\n Hoja: Página 1 de 2\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 3\n INFRAESTRUCTURA COMP COMP 18039\n TECNOLOGICA\n Facultad/ Departamento FAC DE INGENIERIA\n Programa que Administra el curso o módulo INGENIERIA DE SISTEMAS\n Técnico Profesional Especialización\n Niveles de Formación Tecnológico Profesional Maestría\n Profesional X Doctorado\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 4 Número de horas de trabajo independiente: 5\n Fecha de actualización de la guía: 15/11/2022\n\n2. Conocimientos previos requeridos para el curso\nInfraestructura Tecnológica es un curso de quinto semestre del Programa de Ingeniería de Sistemas. El curso no tiene prerrequisito.\n\n3. Justificación\nUnidad temática que presenta fundamentación teórica/práctica sobre la infraestructura tecnológica que soporta procesos\norganizacionales para mejorar la comunicación, crear eficiencias, y aumentar la productividad empresarial. Los elementos de la\ninfraestructura tecnológica serán abordados desde el hardware, software, y networking, considerando soluciones de computación en\nla nube, tecnologías IoT, políticas en seguridad de la información y ciberseguridad, y el fomento de habilidades digitales.",
+      "similitud": 0.751874446868918,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 30,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "COMP18039.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "COMP18039",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0e1b8de5-6610-43b7-8a96-0c547f17c7a0",
+       "codigo_asignatura": "COMP18039"
+      }
+     },
+     {
+      "contenido": "4. Competencias de formación\n Id Competencia Resultado de aprendizaje esperado\n 1 - Comprende la descripción general de Internet. 2 - Identifica las\n Comprender las generalidades de Internet, redes de\n acceso a Internet, comunicaciones inalámbricas y redes características fundamentales de las redes de acceso a Internet. 3 -\n 1 Reconoce las distinciones entre redes inalámbricas y redes de\n de comunicación móvil. comunicación móvil.\n 1 - Define los requerimientos tecnológicos para el despliegue de\n Describir los requerimientos tecnológicos, soluciones TIC empresariales. 2 - Define los requerimientos\n 2 organizacionales, y del entorno para el despliegue de organizacionales para el despliegue de soluciones TIC empresariales.\n soluciones TIC empresariales. 3 - Define los requerimientos del entorno para el despliegue de\n soluciones TIC empresariales.\n\n 1 - Identifica los requerimientos para el diseño de soluciones TIC\n Diseñar soluciones TIC empresariales con capacidades empresariales. 2 - Examina las amenazas de seguridad que pueden\n 3 de seguridad integrando tecnologías emergentes. afectar a las soluciones TIC empresariales. 3 - Diseña soluciones\n TIC empresariales integrando tecnologías emergentes.\n\n5. Contenidos\n Id Unidad de aprendizaje Temáticas\n\n Introducción a las telecomunicaciones.¿Qué es el Internet?Modelo\n 1 Descripción general de Internet TCP/IP.Redes de acceso a Internet.Redes inalámbricas.Redes de\n comunicación móvil.\n\nId Unidad de aprendizaje Temáticas",
+      "similitud": 0.678163549681138,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 57,
+         "from": 32
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "COMP18039.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "COMP18039",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0e1b8de5-6610-43b7-8a96-0c547f17c7a0",
+       "codigo_asignatura": "COMP18039"
+      }
+     },
+     {
+      "contenido": "Guía de cátedra TELE18052 (TELE18052): Código: GDO01-01-FO-01\n Gestión de la docencia\n Versión: 4\n Enseñanza y aprendizaje\n Fecha: 05/04/2022\n Guía de Cátedra\n Hoja: Página 1 de 3\n\n 1. Identificación del Curso/ Módulo\n\n Nombre del Curso/ Módulo: Línea de conocimiento: Código de materia: Número de creditos: 3\n INTERNET DE LAS COSAS TELE TELE 18052\n\n Facultad/ Departamento FAC DE INGENIERIA\n Programa o departamento que administra el curso o módulo INGENIERIA DE SISTEMAS\n Tecnológico Profesional Maestría\n Niveles de Formación Profesional X Doctorado\n Especialización\n Modalidad Presencial X Dual Virtual\n Número de horas con acompañamiento del profesor: 4 Número de horas de trabajo independiente: 5\n Fecha de actualización de la guía: 18/07/2023\n\n2. Conocimientos previos requeridos para el curso\nInternet de las Cosas es un curso de sexto semestre del Programa de Ingeniería de Sistemas. Tiene como prerrequisito el curso de\nInfraestructura Tecnológica (COMP 18039) de quinto semestre.",
+      "similitud": 0.677715044873217,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 25,
+         "from": 1
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "TELE18052.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "TELE18052",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "812a556a-e8f8-4be8-84a3-a67966aaee2c",
+       "codigo_asignatura": "TELE18052"
+      }
+     },
+     {
+      "contenido": "- Análisis de procesos empresariales.\n- Identificación de necesidades de información.\n- Diseño de soluciones tecnológicas organizacionales.\n\n## Alcance y limitaciones\n\nLa información anterior constituye una aproximación temática general basada en el nombre de la asignatura y su ubicación en el catálogo provisional suministrado para iBanú. No permite confirmar contenidos oficiales, competencias, resultados de aprendizaje, metodología, evaluación, bibliografía, profesor ni prerrequisitos.\n\nPara obtener información institucional definitiva se requiere una guía de cátedra o fuente oficial de la UNAB.",
+      "similitud": 0.675683242245493,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 44,
+         "from": 36
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "IB26-S06-03.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Ficha sintética: IB26-S06-03",
+       "seccion": "",
+       "version": "sintetico-2026",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "true",
+       "documento_id": "02e050ab-5640-447a-8e5c-4cb1ff26c2d0",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "2. Conocimientos previos requeridos para el curso\nProgramación de computadores, estructuras de datos, Base de Datos I\n\n3. Justificación\nLa ingeniería de software es el área de la ciencia computacional que consolida los aspectos conceptuales, formales y técnicos sobre\nla práctica del desarrollo de aplicaciones informáticas, sistemas de información y software en general que satisfagan los\nrequerimientos de los usuarios.El estudio de la ingeniería de software es imperativo para la formación del ingeniero de sistemas\ndada la complejidad de los proyectos de software del contexto actual que exige la aplicación disciplinada de métodos, procesos y\ntécnicas de ingeniería.Constituye el campo de diferenciación más importante entre los ingenieros de sistemas y los demás\ningenieros.",
+      "similitud": 0.674150547283958,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 32,
+         "from": 23
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "SOFT18053.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "SOFT18053",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "6cd7358c-9355-477e-aff4-bd0beb528c19",
+       "codigo_asignatura": "SOFT18053"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 19,
+   "pregunta": "¿Qué propone la UNAB para pasar de competencias informáticas a competencias digitales?",
+   "esperado": {
+    "tipo": "competencias"
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿Qué propone la UNAB para pasar de competencias informáticas a competencias digitales?",
+    "resultados": [
+     {
+      "contenido": "Propuesta de Competencias Digitales UNAB: Propuesta de Transformación en la Formación de Competencias Informáticas a Competencias Digitales en la UNAB Por: Alfredo Díaz Claro Departamento de Competencias Digitales Documento dirigido a las directivas de la UNAB Bucaramanga, Julio 2025",
+      "similitud": 0.844713270664221,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 1,
+         "from": 1
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "La presente propuesta plantea la transformación del actual modelo de formación en informática hacia una Ruta de Competencias Digitales, en respuesta a los desafíos educativos y profesionales del siglo XXI. Esta transformación se basa en el marco de referencia europeo DigComp y tiene como objetivo preparar a los estudiantes de la UNAB para desempeñarse con eficiencia, ética y pensamiento crítico en entornos digitales cambiantes y cada vez más exigentes. La nueva estructura se articula en tres pilares: Competencias Digitales Básicas (curso obligatorio: Interacción Digital) Analítica y Contenido Digital (tres cursos optativos, de los cuales se toma uno) Tecnologías Transformativas (tres cursos optativos, de los cuales se toma uno) El modelo se ofrece bajo una ruta electiva sin créditos, similar al de los cursos de inglés, con una duración de 32 horas por curso, calificación de Aprobado / No aprobado, y gestión académica a través del sistema Cosmos. Como parte del modelo, los estudiantes que completen los tres cursos recibirán una Insignia de Competencias Digitales, un reconocimiento que fortalece la empleabilidad al validar habilidades clave requeridas por el mercado laboral actual. La implementación comienza en el segundo semestre de 2025, de manera gradual. Los estudiantes nuevos inician con el curso Interacción Digital, mientras que los estudiantes antiguos (matriculados antes del 202560) tendrán un semestre para finalizar el plan actual de informática. Para quienes no",
+      "similitud": 0.838928828303289,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 3,
+         "from": 3
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "La ruta de formación en Competencias Digitales para el aprendizaje y el trabajo no es un componente aislado ni instrumental. Es una estrategia educativa integral que potencia el desarrollo de una ciudadanía crítica, creativa, colaborativa y transformadora, al tiempo que fortalece el perfil profesional de los estudiantes UNAB. Esta propuesta no solo actualiza tecnológicamente el currículo, sino que refuerza la misión institucional de formar personas éticas, comprometidas con su entorno y preparadas para liderar en la sociedad digital.\n\nLa implementación de la nueva ruta de formación en Competencias Digitales se fundamenta en un modelo formativo flexible, actualizado y alineado con los desafíos del entorno académico y profesional contemporáneo. Esta propuesta contempla aspectos operativos, curriculares, metodológicos y administrativos, garantizando su articulación con el modelo educativo de la UNAB y su viabilidad a nivel institucional.",
+      "similitud": 0.828969330375912,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 69,
+         "from": 67
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "Responder a las exigencias del PEI de la UNAB, en especial el ítem 1.8.6 sobre Competencia Tecnológica. Articularse con los modelos de ciclos de formación: común, mayor y menor. Asumir un rol visible y de liderazgo académico en el desarrollo de competencias digitales institucionales. Diseñar e implementar rutas flexibles y actualizadas de formación en habilidades digitales, con posibilidad de certificación interna o externa. Fortalecer la calidad de todos los programas académicos, brindando herramientas digitales pertinentes y diferenciadas por disciplina. Impactar en los ejes misionales: docencia, investigación, extensión y proyección social. Desarrollar un plan de transición estructurado y participativo, que permita la adopción gradual de los nuevos cursos y enfoques.",
+      "similitud": 0.812346171596876,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 47,
+         "from": 47
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "En las reflexiones del grupo PEI sobre la competencia digital, demuestran que el modelo actual no de cohesión institucional presenta limitaciones pedagógicas y tecnológicas, y por lo tanto no responde adecuadamente ni a las expectativas de los estudiantes ni a las tendencias globales en educación digital. En coherencia con ese trabajo de análisis, la Universidad Autónoma de Bucaramanga (UNAB) ha iniciado una reflexión profunda sobre el papel del componente instrumental —actualmente ofertado como Informática—. La actualización hacia una Ruta de Competencias Digitales responde no solo al diagnóstico institucional, sino también a las necesidades emergentes de estos programas, en los que se requiere una formación más contextualizada, alineada con las exigencias del sector productivo, el ritmo acelerado de transformación tecnológica y los perfiles de egreso orientados a la empleabilidad inmediata. Este proceso de cambio se enmarca en una visión institucional más amplia, la cual reconoce que la era digital —post-PC, marcada por tecnologías como la computación en la nube, big data, inteligencia artificial e internet de las cosas— plantea desafíos prioritarios para el currículo universitario. En este sentido, las preguntas clave que orientan el rediseño son: ¿Qué características requiere el currículo?, ¿Qué rol debe asumir el profesor?, y ¿Qué rol debe asumir el estudiante en esta nueva era? En espacios como los liderados por el equipo PEI, esta discusión ha resaltado la necesidad de",
+      "similitud": 0.800619614087368,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 17,
+         "from": 17
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     }
+    ]
+   }
+  },
+  {
+   "n": 20,
+   "pregunta": "¿De qué trata el programa de Ingeniería de Sistemas de la UNAB y cómo está organizado?",
+   "esperado": {
+    "tipo": "programa"
+   },
+   "http": 200,
+   "posicion": 1,
+   "respuesta": {
+    "consulta": "¿De qué trata el programa de Ingeniería de Sistemas de la UNAB y cómo está organizado?",
+    "resultados": [
+     {
+      "contenido": "Página oficial Ingeniería de Sistemas UNAB: FUENTE INSTITUCIONAL: INGENIERÍA DE SISTEMAS - UNAB\n\nURL:\nhttps://unab.edu.co/programas/ingenieria-de-sistemas/\n\nFECHA DE CONSULTA:\n2026-11-14\n\nORIGEN:\nInstitucional - Universidad Autónoma de Bucaramanga (UNAB).\n\nESTADO DE VERIFICACIÓN:\nPendiente de validación institucional.\n\nESTADO DEL PLAN DE ESTUDIOS:\nPendiente de actualización institucional. La página consultada\nmuestra la sección \"Plan de estudios\", pero no presenta las\nasignaturas ni su distribución académica.\n\nIMPORTANTE:\nNo utilizar el catálogo provisional 2026 como si fuera el plan\noficial vigente. No inventar asignaturas, créditos, semestres\nacadémicos ni prerrequisitos.\n\n==================================================\n\n1. DESCRIPCIÓN DEL PROGRAMA\n==================================================\n\nIngeniería de Sistemas de la UNAB integra Ciencias de la\nComputación, Ingeniería del Software, tecnologías de la\ninformación y las comunicaciones (TIC) y teoría de sistemas.\n\nEl programa busca formar profesionales capaces de desarrollar\ne implementar soluciones innovadoras, transformar ideas en\nsoftware y convertir la tecnología en oportunidades de negocio\ne impacto para la sociedad.\n\n==================================================\n\n2. INFORMACIÓN GENERAL\n==================================================",
+      "similitud": 0.824966192245483,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 42,
+         "from": 1
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "4. FORMACIÓN Y CAMPOS DE CONOCIMIENTO\n==================================================\n\nEl programa presenta formación relacionada con:\n\n- Desarrollo de software web y móvil.\n- Ciencias de la Computación.\n- Ingeniería del Software.\n- Inteligencia artificial.\n- Internet de las cosas (IoT).\n- Ciberseguridad.\n- Analítica de datos.\n- Realidad virtual.\n- Videojuegos e industrias creativas.\n\nLa página destaca el desarrollo de proyectos y simulaciones\npara fortalecer habilidades técnicas y humanas.\n\n==================================================\n\n5. PERFIL PROFESIONAL\n==================================================\n\nEl egresado de Ingeniería de Sistemas de la UNAB se describe\ncomo un profesional íntegro y creativo, con conocimientos\nen Ciencias de la Computación, Software y TIC.\n\nEstá preparado para diseñar e implementar sistemas seguros,\neficientes y centrados en las personas.\n\nPuede liderar proyectos relacionados con desarrollo de\nsoftware, videojuegos, inteligencia artificial, IoT,\nanalítica de datos y ciberseguridad.\n\nEntre sus posibles campos de desempeño se encuentran:\n\n- Desarrollador de software.\n- Analista.\n- Consultor tecnológico.\n- Líder de proyectos tecnológicos.\n\nPuede generar impacto en organizaciones públicas y privadas,\na nivel nacional e internacional.\n\n==================================================\n\n6. ESPACIOS DE FORMACIÓN\n==================================================\n\nLa página institucional menciona los siguientes espacios:",
+      "similitud": 0.776464425816072,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 128,
+         "from": 79
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "==================================================\n\n2. INFORMACIÓN GENERAL\n==================================================\n\nPrograma: Ingeniería de Sistemas.\nInstitución: Universidad Autónoma de Bucaramanga (UNAB).\nCódigo SNIES: 1643.\nTítulo otorgado: Ingeniero/a de Sistemas.\nNivel de formación: Profesional.\nModalidad de la página consultada: Presencial.\nDuración publicada: 8 semestres más práctica profesional.\n\nRegistro calificado:\nResolución 14483 del 25 de julio de 2022, por 7 años.\n\nAcreditación de Alta Calidad:\nResolución 14483 del 25 de julio de 2022, por 8 años.\n\nAcreditación internacional:\nArcu-Sur, Acuerdo de acreditación 035 de 2022.\n\n==================================================\n\n3. VALORES PUBLICADOS\n==================================================\n\nMatrícula de primer ingreso: $7.554.880.\nValor del nivel de inglés: $792.900.\nValor de competencias digitales: $362.550.\n\nVigencia indicada en la página: 2026.\nLa matrícula no incluye conceptos pecuniarios.\n\nEstos valores son históricos de la vigencia indicada.\nNo deben presentarse como precios de 2027 o posteriores\nsin una nueva verificación institucional.\n\n==================================================\n\n4. FORMACIÓN Y CAMPOS DE CONOCIMIENTO\n==================================================\n\nEl programa presenta formación relacionada con:",
+      "similitud": 0.758614077650663,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 82,
+         "from": 39
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "5. Contenidos\n Id Unidad de aprendizaje Temáticas\n\n Guía CátedraAcuerdosDefinicionesCronograma y actividades para\n 1 Introducción desarrollar en el semestre\n Deber ser del ingeniero de sistemasEl rol ético del ingeniero de\n sistemas en la sociedadRelaciones del ingeniero de sistemas con\n otras áreas del conocimientoIngeniería de Sistemas en la\n 2 Ética en ingeniería de sistemas UniversidadDeber ser del ingeniero de sistemas como interlocutor de\n su actuarSentido de la ética en la ingeniería de sistemasDesarrollo\n de proyectos\n\n6. Evaluación y calificación\n Actividades o tipos de actividades Porcentaje\nTalleres y lecturas 40\nProyecto de ingeniería 60\n\n7. Bibliografía\n\nPEI: https://unab.edu.co/sites/default/files/archivos/nosotros/pei/proyecto_educativo_institucional.pdf\nPEP: tema.unab.edu.co\nReglamento estudiantil:\nhttps://unab.edu.co/sites/default/files/archivos/legal_resoluciones_tarifas/Reglamento%20Estudiantil%20Pregrado%2029%20OCT-\n%20ARR.pdf\n\nReglamento profesores:\nhttps://unab.edu.co/sites/default/files/archivos/legal_resoluciones_tarifas/REGLAMENTO%20DEL%20PROFESORADO.pdf\n\nPlan de Desarrollo UNAB: https://issuu.com/unab.online/docs/2-_cartilla_plan_de_desarrollo_20_x_20_cms__1_\n\nDocumentos y videos disponibles de forma gratuita en la web.\n\n8. Observaciones\nN.A.",
+      "similitud": 0.754690640373632,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 86,
+         "from": 53
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "FILO18001.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "FILO18001",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "11c0d731-4caf-45bf-a665-c92394d67222",
+       "codigo_asignatura": "FILO18001"
+      }
+     },
+     {
+      "contenido": "2. Conocimientos previos requeridos para el curso\nN.A.\n\n3. Justificación\nEl Ingeniero de Sistemas debe contar con una formación en el pensamiento práctico que le permita juzgar dilemas éticos y decidir\ncursos de acción profesional que preserven el interés general y la ética. La ingeniería de sistemas de la UNAB busca preparar a\npersonas profesionalmente calificadas para lidiar con las tecnologías de la información y la comunicación dotadas de las cualidades\nintelectuales y éticas necesarias para circunscribir esa labor profesional en el contexto amplio de la sociedad a la cual sirven, es decir,\ncapaces de apelar a la tecnología de un modo que esencialmente esté orientado al bien social y al bien público en general.Este debe\nser el principio que guíe, en el plano ético, el desempeño del Ingeniero de Sistemas UNAB. En este marco teleológico, este curso\nplantea al estudiante dos preguntas fundamentales:¿¿Cuál debería ser el sentido social de la práctica de la Ingeniería de Sistemas en\nla actualidad? ¿¿Qué responsabilidades tiene el ingeniero de sistemas para ser éticamente consecuente con este sentido?",
+      "similitud": 0.724674956519906,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 34,
+         "from": 23
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "FILO18001.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "FILO18001",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "11c0d731-4caf-45bf-a665-c92394d67222",
+       "codigo_asignatura": "FILO18001"
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "control": [
+  {
+   "pregunta": "¿Cuál es el horario de la cafetería?",
+   "http": 200,
+   "respuesta": {
+    "consulta": "¿Cuál es el horario de la cafetería?",
+    "resultados": [
+     {
+      "contenido": "8. Observaciones\nLa información para el servicio de tutorías y asesorías en general estará ubicada dentro del curso en la plataforma Tema.",
+      "similitud": 0.594600284421428,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 104,
+         "from": 103
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "ESTA19029.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "ESTA19029",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "5e8df9ab-60f2-4674-af16-6d6cea65e2a8",
+       "codigo_asignatura": "ESTA19029"
+      }
+     },
+     {
+      "contenido": "La información puede cambiar. Los valores económicos tienen\nvigencia 2026.\n\nLa página consultada corresponde a la modalidad presencial.\nNo utilizar sus datos para responder automáticamente sobre\nla modalidad virtual.\n\nNo confundir esta información con planes de estudio\nprovisionales ni con información de otros programas.\n\nFIN DEL DOCUMENTO",
+      "similitud": 0.575030957164235,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 218,
+         "from": 208
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "8. Observaciones\nUnidad temática perteneciente a la Línea de Tecnologías de Información del Programa de Ingeniería de Sistemas.Los estudiantes\ndeben ser puntuales en su asistencia a clase, llegando a la hora señalada y asistiendo a todas las clases.Los entregables del curso\nserán enviados por correo electrónico.",
+      "similitud": 0.567524833454944,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 104,
+         "from": 101
+        }
+       },
+       "tipo": "guia_catedra",
+       "fuente": "COMP18039.pdf",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "COMP18039",
+       "seccion": "",
+       "version": "",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0e1b8de5-6610-43b7-8a96-0c547f17c7a0",
+       "codigo_asignatura": "COMP18039"
+      }
+     },
+     {
+      "contenido": "Reglamento Estudiantil de Pregrado UNAB, CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos, Artículo 82: ARTÍCULO 82. La Asesoría Académica. Es la actividad de atención personalizada que un profesor UNAB ofrece a sus estudiantes con el propósito de resolver\nsus inquietudes y dificultades académicas surgidas en su proceso de formación.\n\nParágrafo 1. El tiempo dedicado a la asesoría académica será programado en el\nhorario de cada profesor, se fijará en un sitio visible para el estudiante y cada\nprofesor deberá comunicarlo en el aula como parte de la inducción que realiza\nen la primera clase.",
+      "similitud": 0.564350366592411,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 7,
+         "from": 1
+        }
+       },
+       "tipo": "reglamento",
+       "fuente": "Reglamento-estudiantil-pregrado.pdf",
+       "pagina": "42",
+       "source": "blob",
+       "titulo": "Reglamento Estudiantil de Pregrado UNAB",
+       "seccion": "TÍTULO TERCERO: De las normas generales que regu- | CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos | ARTÍCULO 82",
+       "version": "2019",
+       "articulo": "82",
+       "blobType": "text/plain",
+       "capitulo": "CAPÍTULO PRIMERO: Del acompañamiento y apoyo académicos",
+       "sintetico": "false",
+       "documento_id": "47890187-7e0c-4e0e-8c3e-0d998483f8e0",
+       "codigo_asignatura": "UNAB-REGLAMENTO-PREGRADO-2019"
+      }
+     },
+     {
+      "contenido": "Cada curso tendrá una duración total de 32 horas, distribuidas en 2 horas semanales durante 16 semanas (semestre académico). El sistema de evaluación será Aprobado / No aprobado, según la calificación final. Se considera aprobado con una nota superior a 3.0. Estos cursos no otorgan créditos académicos y no están incluidos en el plan de estudios del registro calificado, adoptando un tratamiento similar al de los cursos de Lenguas dentro del PEI. Se dictarán bajo la metodología basada en competencias, y con una didáctica activa fundamentada en retos y resolución de problemas interdisciplinarios.",
+      "similitud": 0.558927562300709,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 75,
+         "from": 75
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     }
+    ]
+   }
+  },
+  {
+   "pregunta": "¿Cuánto cuesta un semestre en 2027?",
+   "http": 200,
+   "respuesta": {
+    "consulta": "¿Cuánto cuesta un semestre en 2027?",
+    "resultados": [
+     {
+      "contenido": "El proceso culminará en el primer semestre de 2027 (202710), cuando los cursos estén disponibles para ser inscritos por estudiantes de modalidad virtual como parte de su ruta curricular. Para los programas presenciales, esta virtualización permitirá también ofrecer alternativas flexibles, bajo demanda o híbridas, de acuerdo con las necesidades de cada programa.",
+      "similitud": 0.733151197433472,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 133,
+         "from": 133
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "La información puede cambiar. Los valores económicos tienen\nvigencia 2026.\n\nLa página consultada corresponde a la modalidad presencial.\nNo utilizar sus datos para responder automáticamente sobre\nla modalidad virtual.\n\nNo confundir esta información con planes de estudio\nprovisionales ni con información de otros programas.\n\nFIN DEL DOCUMENTO",
+      "similitud": 0.676912090410248,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 218,
+         "from": 208
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "La propuesta también contempla un Plan de Virtualización que garantizará la disponibilidad progresiva de los cursos para estudiantes de programas virtuales y permitirá su uso flexible en otras modalidades. Esta virtualización se extenderá entre los periodos 202560 y 202620, asegurando que para el 202710 los cursos estén plenamente implementados en modalidad virtual. Finalmente, se establece que la oferta podrá ser dinámica y evolutiva, permitiendo incluir o actualizar cursos en función de las innovaciones tecnológicas y las necesidades particulares de los programas académicos, lo que garantiza la vigencia, pertinencia y adaptabilidad del modelo.",
+      "similitud": 0.630999251484965,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 5,
+         "from": 5
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "Virtualización del curso Interacción Digital, correspondiente al pilar de Competencias Digitales Básicas. Virtualización de al menos un curso del pilar Analítica y Contenido Digital (por ejemplo: Habilidades en Analítica Digital). Esta fase permitirá avanzar en la creación de materiales interactivos, recursos multimedia y la estructura metodológica basada en retos, asegurando una base sólida para los siguientes cursos.\n\nFinalización de la virtualización del pilar Analítica y Contenido Digital (los dos cursos restantes). Virtualización de al menos un curso del pilar Tecnologías Transformativas (por ejemplo: IA Generativa). Esta fase será clave para diversificar las posibilidades de elección por parte de los estudiantes y avanzar en el desarrollo de contenido tecnológico emergente.\n\nVirtualización de los cursos faltantes del pilar Tecnologías Transformativas, completando la producción de la ruta. Con esta fase, se garantizará que a partir del primer semestre de 2027, la ruta completa esté disponible para estudiantes virtuales y para estudiantes presenciales que requieran flexibilidad o modalidad alterna.\n\nTodos los cursos virtualizados seguirán el estándar institucional para cursos en línea, incluyendo: Diseño instruccional centrado en el estudiante Evaluación por competencias Actividades aplicadas a contextos reales Acompañamiento docente sincrónico y asincrónico Uso de entornos digitales de aprendizaje institucionales",
+      "similitud": 0.630787491798401,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 131,
+         "from": 125
+        }
+       },
+       "tipo": "competencias",
+       "fuente": "Propuesta Competencias Digitales UNAB V11ADC_clean.md",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Propuesta de Competencias Digitales UNAB",
+       "seccion": "",
+       "version": "V11ADC_clean",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "0ca3fb98-9cda-4281-913e-e6a139d2d82a",
+       "codigo_asignatura": ""
+      }
+     },
+     {
+      "contenido": "==================================================\n\n2. INFORMACIÓN GENERAL\n==================================================\n\nPrograma: Ingeniería de Sistemas.\nInstitución: Universidad Autónoma de Bucaramanga (UNAB).\nCódigo SNIES: 1643.\nTítulo otorgado: Ingeniero/a de Sistemas.\nNivel de formación: Profesional.\nModalidad de la página consultada: Presencial.\nDuración publicada: 8 semestres más práctica profesional.\n\nRegistro calificado:\nResolución 14483 del 25 de julio de 2022, por 7 años.\n\nAcreditación de Alta Calidad:\nResolución 14483 del 25 de julio de 2022, por 8 años.\n\nAcreditación internacional:\nArcu-Sur, Acuerdo de acreditación 035 de 2022.\n\n==================================================\n\n3. VALORES PUBLICADOS\n==================================================\n\nMatrícula de primer ingreso: $7.554.880.\nValor del nivel de inglés: $792.900.\nValor de competencias digitales: $362.550.\n\nVigencia indicada en la página: 2026.\nLa matrícula no incluye conceptos pecuniarios.\n\nEstos valores son históricos de la vigencia indicada.\nNo deben presentarse como precios de 2027 o posteriores\nsin una nueva verificación institucional.\n\n==================================================\n\n4. FORMACIÓN Y CAMPOS DE CONOCIMIENTO\n==================================================\n\nEl programa presenta formación relacionada con:",
+      "similitud": 0.619717203395534,
+      "metadata": {
+       "loc": {
+        "lines": {
+         "to": 82,
+         "from": 39
+        }
+       },
+       "tipo": "programa",
+       "fuente": "ingenieria_sistemas_unab_limpio.txt",
+       "pagina": "",
+       "source": "blob",
+       "titulo": "Página oficial Ingeniería de Sistemas UNAB",
+       "seccion": "",
+       "version": "consulta-2026-11-14",
+       "articulo": "",
+       "blobType": "text/plain",
+       "capitulo": "",
+       "sintetico": "false",
+       "documento_id": "9a991358-d7bb-4b21-8115-af7d9aaa8e53",
+       "codigo_asignatura": ""
+      }
+     }
+    ]
+   }
+  }
+ ]
+}

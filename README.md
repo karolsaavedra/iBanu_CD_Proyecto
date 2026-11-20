@@ -324,6 +324,12 @@ Flujo **"iBanú: orientador académico (flujo único)"**, publicado en n8n Cloud
 
 ![Lienzo del flujo](docs/img/n8n_lienzo_flujo_unico.jpg)
 
+<img width="1417" height="722" alt="Captura de pantalla 2026-11-20 003359" src="https://github.com/user-attachments/assets/35e707d3-8482-4ffc-8b78-698a74655e7b" />
+<img width="883" height="287" alt="Captura de pantalla 2026-11-20 003434" src="https://github.com/user-attachments/assets/eae57aac-c9de-448a-89d1-f1d058a1993a" />
+<img width="1353" height="637" alt="Captura de pantalla 2026-11-20 003511" src="https://github.com/user-attachments/assets/82dd3ac9-f73e-4a77-96fa-9667f2f95abd" />
+<img width="1342" height="748" alt="Captura de pantalla 2026-11-20 003536" src="https://github.com/user-attachments/assets/5f188557-6d8a-4b88-a812-494acddc1195" />
+
+
 *Vista general del lienzo: azul, chat de la app; morado, prueba del RAG; rojo, subida de documentos; marrón, indexación.*
 
 ### Resumen nodo por nodo (camino del chat)
